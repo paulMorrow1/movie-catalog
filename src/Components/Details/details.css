@@ -1,0 +1,35 @@
+.details-page {
+  display: flex;
+  /* background-color: white; */
+  height: 550px;
+  width: 70rem;
+  margin-left: 1.5rem;
+  margin-bottom: 2.5rem;
+  justify-content: center;
+}
+
+.details-container {
+  color: white;
+  margin-left: 2rem;
+  font-size: large;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.details-title {
+  font-size: x-large;
+  font-weight: 500;
+}
+
+.details-icons-container {
+  display: flex;
+  margin-top: 3rem;
+}
+
+.details-heart-icon {
+  margin-right: 0.5rem;
+  /* background-color: pink; */
+}
+
+.details-recentlywatched-icon {
+  margin-left: 0.5rem;
+}

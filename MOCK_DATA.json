@@ -1,0 +1,3618 @@
+[
+  {
+    "id": 1,
+    "movie-title": "Lone Wolf and Cub: Sword of Vengeance (Kozure Ôkami: Kowokashi udekashi tsukamatsuru)",
+    "movie-genre": "Action|Crime"
+  },
+  { "id": 2, "movie-title": "Kummelin jackpot", "movie-genre": "Comedy" },
+  { "id": 3, "movie-title": "Arizona Raiders", "movie-genre": "Western" },
+  {
+    "id": 4,
+    "movie-title": "Adventures of Kitty O'Day (Kitty O'Day Comes Through)",
+    "movie-genre": "Comedy|Crime|Mystery|Romance"
+  },
+  {
+    "id": 5,
+    "movie-title": "Lethal Weapon 2",
+    "movie-genre": "Action|Comedy|Crime|Drama"
+  },
+  { "id": 6, "movie-title": "Mobsters", "movie-genre": "Crime|Drama" },
+  {
+    "id": 7,
+    "movie-title": "Border Feud",
+    "movie-genre": "Action|Comedy|Western"
+  },
+  { "id": 8, "movie-title": "American Vagabond", "movie-genre": "Documentary" },
+  {
+    "id": 9,
+    "movie-title": "Jönssonligan på Mallorca",
+    "movie-genre": "Comedy"
+  },
+  { "id": 10, "movie-title": "Friday the 13th", "movie-genre": "Horror" },
+  {
+    "id": 11,
+    "movie-title": "Mulan",
+    "movie-genre": "Action|Adventure|Drama|Romance"
+  },
+  {
+    "id": 12,
+    "movie-title": "Moebius Redux: A Life in Pictures",
+    "movie-genre": "Documentary"
+  },
+  {
+    "id": 13,
+    "movie-title": "Interview, The",
+    "movie-genre": "Crime|Drama|Mystery|Thriller"
+  },
+  {
+    "id": 14,
+    "movie-title": "That's What I Am",
+    "movie-genre": "Children|Comedy"
+  },
+  { "id": 15, "movie-title": "Valentine Road", "movie-genre": "Documentary" },
+  {
+    "id": 16,
+    "movie-title": "Empire of the Wolves (L'empire des loups)",
+    "movie-genre": "Action|Drama|Thriller"
+  },
+  {
+    "id": 17,
+    "movie-title": "Hava Nagila: The Movie",
+    "movie-genre": "Comedy|Documentary|Musical"
+  },
+  {
+    "id": 18,
+    "movie-title": "3 Sailors and a Girl (Three Sailors and a Girl)",
+    "movie-genre": "Comedy|Musical"
+  },
+  { "id": 19, "movie-title": "Purple Plain, The", "movie-genre": "Drama|War" },
+  {
+    "id": 20,
+    "movie-title": "Behind the Screen",
+    "movie-genre": "Comedy|Romance"
+  },
+  { "id": 21, "movie-title": "Skinwalkers", "movie-genre": "Horror|Thriller" },
+  {
+    "id": 22,
+    "movie-title": "Body Snatchers",
+    "movie-genre": "Horror|Sci-Fi|Thriller"
+  },
+  { "id": 23, "movie-title": "Little Nikita", "movie-genre": "Drama" },
+  {
+    "id": 24,
+    "movie-title": "Joseph and the Amazing Technicolor Dreamcoat",
+    "movie-genre": "Musical"
+  },
+  { "id": 25, "movie-title": "My Prairie Home", "movie-genre": "Documentary" },
+  {
+    "id": 26,
+    "movie-title": "Love and Sex under Nazi Occupation (Amour et sexe sous l'occupation) ",
+    "movie-genre": "Documentary"
+  },
+  { "id": 27, "movie-title": "Northwest", "movie-genre": "Action|Crime|Drama" },
+  {
+    "id": 28,
+    "movie-title": "Four Seasons (Seasons, The) (Vremena goda)",
+    "movie-genre": "Documentary"
+  },
+  {
+    "id": 29,
+    "movie-title": "Prisoner of the Mountains (Kavkazsky plennik)",
+    "movie-genre": "War"
+  },
+  { "id": 30, "movie-title": "Louis C.K.: Chewed Up", "movie-genre": "Comedy" },
+  {
+    "id": 31,
+    "movie-title": "Azumi 2: Death or Love",
+    "movie-genre": "Action|Adventure"
+  },
+  {
+    "id": 32,
+    "movie-title": "Born to Fight (Kerd ma lui)",
+    "movie-genre": "Action|Adventure|Crime|Thriller"
+  },
+  {
+    "id": 33,
+    "movie-title": "3 Sailors and a Girl (Three Sailors and a Girl)",
+    "movie-genre": "Comedy|Musical"
+  },
+  { "id": 34, "movie-title": "Slasher House", "movie-genre": "Horror" },
+  { "id": 35, "movie-title": "Stash House", "movie-genre": "Thriller" },
+  {
+    "id": 36,
+    "movie-title": "Dreamscape",
+    "movie-genre": "Horror|Sci-Fi|Thriller"
+  },
+  {
+    "id": 37,
+    "movie-title": "Antboy",
+    "movie-genre": "Adventure|Children|Comedy"
+  },
+  {
+    "id": 38,
+    "movie-title": "Room, The",
+    "movie-genre": "Comedy|Drama|Romance"
+  },
+  {
+    "id": 39,
+    "movie-title": "Me You Them (Eu, Tu, Eles)",
+    "movie-genre": "Comedy|Drama|Romance"
+  },
+  {
+    "id": 40,
+    "movie-title": "Mad Max",
+    "movie-genre": "Action|Adventure|Sci-Fi"
+  },
+  {
+    "id": 41,
+    "movie-title": "Stealing Harvard",
+    "movie-genre": "Comedy|Crime"
+  },
+  { "id": 42, "movie-title": "Michael", "movie-genre": "Drama" },
+  {
+    "id": 43,
+    "movie-title": "Final Destination 2",
+    "movie-genre": "Horror|Thriller"
+  },
+  { "id": 44, "movie-title": "Midnight Clear", "movie-genre": "Drama" },
+  {
+    "id": 45,
+    "movie-title": "Let's Not Keep in Touch!",
+    "movie-genre": "Comedy"
+  },
+  {
+    "id": 46,
+    "movie-title": "Life of Emile Zola, The",
+    "movie-genre": "Drama"
+  },
+  {
+    "id": 47,
+    "movie-title": "Jönssonligans största kupp",
+    "movie-genre": "Comedy|Crime"
+  },
+  {
+    "id": 48,
+    "movie-title": "Gold of Rome (L'oro di Roma)",
+    "movie-genre": "Drama"
+  },
+  {
+    "id": 49,
+    "movie-title": "Cat Soup (Nekojiru-so)",
+    "movie-genre": "Adventure|Animation|Drama|Horror"
+  },
+  {
+    "id": 50,
+    "movie-title": "Seagull's Laughter, The (Mávahlátur)",
+    "movie-genre": "Comedy|Drama"
+  },
+  { "id": 51, "movie-title": "My Foolish Heart", "movie-genre": "Drama" },
+  {
+    "id": 52,
+    "movie-title": "Terumae romae (Thermae Romae)",
+    "movie-genre": "Comedy|Sci-Fi"
+  },
+  {
+    "id": 53,
+    "movie-title": "Dr. Jekyll and Mr. Hyde",
+    "movie-genre": "Drama|Horror|Sci-Fi|Thriller"
+  },
+  { "id": 54, "movie-title": "Starlift", "movie-genre": "(no genres listed)" },
+  {
+    "id": 55,
+    "movie-title": "Dance, Girl, Dance",
+    "movie-genre": "Comedy|Drama"
+  },
+  {
+    "id": 56,
+    "movie-title": "Frightened City, The",
+    "movie-genre": "Crime|Drama|Film-Noir"
+  },
+  { "id": 57, "movie-title": "What's New, Pussycat", "movie-genre": "Comedy" },
+  {
+    "id": 58,
+    "movie-title": "Prom Queen: The Marc Hall Story",
+    "movie-genre": "Comedy|Drama"
+  },
+  {
+    "id": 59,
+    "movie-title": "Special 26",
+    "movie-genre": "Crime|Drama|Thriller"
+  },
+  {
+    "id": 60,
+    "movie-title": "J.C. Chávez (a.k.a. Chavez)",
+    "movie-genre": "Documentary"
+  },
+  {
+    "id": 61,
+    "movie-title": "Chase, The",
+    "movie-genre": "Action|Adventure|Comedy|Crime|Romance|Thriller"
+  },
+  {
+    "id": 62,
+    "movie-title": "Who's Camus Anyway? (Kamyu nante shiranai)",
+    "movie-genre": "Drama"
+  },
+  {
+    "id": 63,
+    "movie-title": "God Grew Tired of Us",
+    "movie-genre": "Documentary|Drama"
+  },
+  { "id": 64, "movie-title": "Kanal", "movie-genre": "Drama|War" },
+  { "id": 65, "movie-title": "Garage, The", "movie-genre": "Comedy" },
+  {
+    "id": 66,
+    "movie-title": "Secret Glory, The",
+    "movie-genre": "Documentary"
+  },
+  {
+    "id": 67,
+    "movie-title": "Armwrestler From Solitude, The (Armbryterskan från Ensamheten)",
+    "movie-genre": "Documentary"
+  },
+  { "id": 68, "movie-title": "Primal", "movie-genre": "Horror|Thriller" },
+  { "id": 69, "movie-title": "Creepshow 2", "movie-genre": "Horror" },
+  { "id": 70, "movie-title": "Last Movie, The", "movie-genre": "Drama" },
+  { "id": 71, "movie-title": "Zen", "movie-genre": "Drama" },
+  {
+    "id": 72,
+    "movie-title": "Small Soldiers",
+    "movie-genre": "Animation|Children|Fantasy|War"
+  },
+  {
+    "id": 73,
+    "movie-title": "Monster X Strikes Back: Attack the G8 Summit, The (Girara no gyakushû: Tôya-ko Samitto kikiippatsu)",
+    "movie-genre": "Comedy|Sci-Fi"
+  },
+  {
+    "id": 74,
+    "movie-title": "Secretary",
+    "movie-genre": "Comedy|Drama|Romance"
+  },
+  {
+    "id": 75,
+    "movie-title": "Intimate Lighting (Intimni osvetleni)",
+    "movie-genre": "Comedy|Drama"
+  },
+  {
+    "id": 76,
+    "movie-title": "Dr. Dolittle 3",
+    "movie-genre": "Children|Comedy|Fantasy"
+  },
+  { "id": 77, "movie-title": "Off the Black", "movie-genre": "Drama" },
+  { "id": 78, "movie-title": "Mud", "movie-genre": "Adventure|Crime|Drama" },
+  {
+    "id": 79,
+    "movie-title": "Sometimes They Come Back... Again",
+    "movie-genre": "Horror"
+  },
+  {
+    "id": 80,
+    "movie-title": "BloodRayne: Deliverance (BloodRayne II: Deliverance)",
+    "movie-genre": "Action|Fantasy|Western"
+  },
+  { "id": 81, "movie-title": "Cthulhu", "movie-genre": "Drama|Thriller" },
+  { "id": 82, "movie-title": "Air America", "movie-genre": "Action|Comedy" },
+  { "id": 83, "movie-title": "Holiday Spin", "movie-genre": "Drama|Romance" },
+  {
+    "id": 84,
+    "movie-title": "I Am Curious (Yellow) (Jag är nyfiken - en film i gult)",
+    "movie-genre": "Documentary|Drama"
+  },
+  {
+    "id": 85,
+    "movie-title": "Midnight Movie",
+    "movie-genre": "Horror|Thriller"
+  },
+  {
+    "id": 86,
+    "movie-title": "Adversary, The (L'adversaire)",
+    "movie-genre": "Crime|Drama|Mystery|Thriller"
+  },
+  { "id": 87, "movie-title": "To Rome with Love", "movie-genre": "Comedy" },
+  {
+    "id": 88,
+    "movie-title": "Rob Roy",
+    "movie-genre": "Action|Drama|Romance|War"
+  },
+  { "id": 89, "movie-title": "Fury", "movie-genre": "Drama|Film-Noir" },
+  {
+    "id": 90,
+    "movie-title": "Walking and Talking",
+    "movie-genre": "Comedy|Drama|Romance"
+  },
+  {
+    "id": 91,
+    "movie-title": "Harvey Girls, The",
+    "movie-genre": "Comedy|Musical|Western"
+  },
+  { "id": 92, "movie-title": "This Is 40", "movie-genre": "Drama" },
+  { "id": 93, "movie-title": "Medium Cool", "movie-genre": "Drama|Romance" },
+  {
+    "id": 94,
+    "movie-title": "The Gallant Hours",
+    "movie-genre": "(no genres listed)"
+  },
+  {
+    "id": 95,
+    "movie-title": "Willow",
+    "movie-genre": "Action|Adventure|Fantasy"
+  },
+  { "id": 96, "movie-title": "White Elephant", "movie-genre": "Drama" },
+  { "id": 97, "movie-title": "Dream With the Fishes", "movie-genre": "Drama" },
+  {
+    "id": 98,
+    "movie-title": "Three Worlds (Trois mondes)",
+    "movie-genre": "Drama"
+  },
+  {
+    "id": 99,
+    "movie-title": "Strange Color Of Your Body's Tears, The (L'étrange couleur des larmes de ton corps)",
+    "movie-genre": "Mystery|Thriller"
+  },
+  {
+    "id": 100,
+    "movie-title": "Little Miss Marker",
+    "movie-genre": "Comedy|Drama"
+  },
+  { "id": 101, "movie-title": "Rage of Honor", "movie-genre": "Action|Crime" },
+  { "id": 102, "movie-title": "Head On", "movie-genre": "Drama" },
+  {
+    "id": 103,
+    "movie-title": "Blood of Dracula",
+    "movie-genre": "Horror|Romance"
+  },
+  { "id": 104, "movie-title": "Retreat", "movie-genre": "Thriller" },
+  {
+    "id": 105,
+    "movie-title": "Side Street",
+    "movie-genre": "Crime|Drama|Film-Noir"
+  },
+  {
+    "id": 106,
+    "movie-title": "Andre",
+    "movie-genre": "Adventure|Children|Drama"
+  },
+  { "id": 107, "movie-title": "My Sister's Keeper", "movie-genre": "Drama" },
+  {
+    "id": 108,
+    "movie-title": "Man from Laramie, The",
+    "movie-genre": "Western"
+  },
+  { "id": 109, "movie-title": "Quid Pro Quo", "movie-genre": "Drama|Thriller" },
+  {
+    "id": 110,
+    "movie-title": "Shrek the Halls",
+    "movie-genre": "Adventure|Animation|Comedy|Fantasy"
+  },
+  {
+    "id": 111,
+    "movie-title": "Faces of Death 3",
+    "movie-genre": "Documentary|Horror"
+  },
+  { "id": 112, "movie-title": "Professionals, The", "movie-genre": "Western" },
+  { "id": 113, "movie-title": "TWA Flight 800 ", "movie-genre": "Documentary" },
+  {
+    "id": 114,
+    "movie-title": "Why Are the Bells Ringing, Mitica? (a.k.a. Carnival Scenes) (De ce trag clopotele, Mitica?)",
+    "movie-genre": "Comedy"
+  },
+  { "id": 115, "movie-title": "Iron Horse, The", "movie-genre": "Western" },
+  {
+    "id": 116,
+    "movie-title": "Century of the Dragon (Long zai bian yuan)",
+    "movie-genre": "Crime|Thriller"
+  },
+  { "id": 117, "movie-title": "Home Fries", "movie-genre": "Comedy|Romance" },
+  {
+    "id": 118,
+    "movie-title": "Hard Ticket to Hawaii",
+    "movie-genre": "Action|Comedy"
+  },
+  {
+    "id": 119,
+    "movie-title": "Empire of the Wolves (L'empire des loups)",
+    "movie-genre": "Action|Drama|Thriller"
+  },
+  { "id": 120, "movie-title": "Go for Sisters", "movie-genre": "Crime|Drama" },
+  {
+    "id": 121,
+    "movie-title": "Dark Eyes (Oci ciornie)",
+    "movie-genre": "Comedy|Drama|Romance"
+  },
+  {
+    "id": 122,
+    "movie-title": "The Lumière Brothers' First Films",
+    "movie-genre": "Documentary"
+  },
+  {
+    "id": 123,
+    "movie-title": "Vegas Vacation (National Lampoon's Las Vegas Vacation)",
+    "movie-genre": "Comedy"
+  },
+  {
+    "id": 124,
+    "movie-title": "Vie en Rose, La (Môme, La)",
+    "movie-genre": "Drama|Musical"
+  },
+  {
+    "id": 125,
+    "movie-title": "Pépé le Moko",
+    "movie-genre": "Crime|Drama|Romance"
+  },
+  {
+    "id": 126,
+    "movie-title": "Pekka ja Pätkä puistotäteinä",
+    "movie-genre": "Comedy"
+  },
+  {
+    "id": 127,
+    "movie-title": "Wedding Song, The ",
+    "movie-genre": "Drama|War"
+  },
+  {
+    "id": 128,
+    "movie-title": "Ricky Gervais Live 4: Science",
+    "movie-genre": "Comedy"
+  },
+  {
+    "id": 129,
+    "movie-title": "Sword of the Valiant",
+    "movie-genre": "Action|Adventure|Fantasy|Romance"
+  },
+  { "id": 130, "movie-title": "Madigan", "movie-genre": "Crime|Drama" },
+  {
+    "id": 131,
+    "movie-title": "Cheap Thrills",
+    "movie-genre": "Comedy|Thriller"
+  },
+  {
+    "id": 132,
+    "movie-title": "Talladega Nights: The Ballad of Ricky Bobby",
+    "movie-genre": "Action|Comedy"
+  },
+  {
+    "id": 133,
+    "movie-title": "Easier with Practice",
+    "movie-genre": "Drama|Romance"
+  },
+  { "id": 134, "movie-title": "Flodder in Amerika!", "movie-genre": "Comedy" },
+  { "id": 135, "movie-title": "Nothing Personal", "movie-genre": "Drama" },
+  { "id": 136, "movie-title": "If a Man Answers", "movie-genre": "Comedy" },
+  {
+    "id": 137,
+    "movie-title": "Summer Things (Embrassez qui vous voudrez)",
+    "movie-genre": "Comedy|Drama|Romance"
+  },
+  { "id": 138, "movie-title": "The Linguists", "movie-genre": "Documentary" },
+  { "id": 139, "movie-title": "Sleepers", "movie-genre": "Thriller" },
+  {
+    "id": 140,
+    "movie-title": "Killers, The",
+    "movie-genre": "Action|Crime|Drama|Film-Noir|Thriller"
+  },
+  {
+    "id": 141,
+    "movie-title": "Another Country",
+    "movie-genre": "Drama|Romance"
+  },
+  {
+    "id": 142,
+    "movie-title": "Duelist (Hyeongsa)",
+    "movie-genre": "Action|Mystery"
+  },
+  { "id": 143, "movie-title": "Shadowzone", "movie-genre": "Horror|Sci-Fi" },
+  {
+    "id": 144,
+    "movie-title": "24: Redemption",
+    "movie-genre": "Action|Adventure|Crime|Drama|Thriller"
+  },
+  {
+    "id": 145,
+    "movie-title": "Tickle in the Heart, A",
+    "movie-genre": "Documentary"
+  },
+  {
+    "id": 146,
+    "movie-title": "Through and Through (Na wylot)",
+    "movie-genre": "Crime"
+  },
+  {
+    "id": 147,
+    "movie-title": "Light Gradient",
+    "movie-genre": "Drama|Mystery|Romance"
+  },
+  {
+    "id": 148,
+    "movie-title": "Counterfeiters, The (Die Fälscher)",
+    "movie-genre": "Crime|Drama|War"
+  },
+  { "id": 149, "movie-title": "Black", "movie-genre": "Drama" },
+  { "id": 150, "movie-title": "Swing Kids", "movie-genre": "Drama|War" },
+  { "id": 151, "movie-title": "Alan & Naomi", "movie-genre": "Children|Drama" },
+  {
+    "id": 152,
+    "movie-title": "Dirty Filthy Love",
+    "movie-genre": "Drama|Romance"
+  },
+  {
+    "id": 153,
+    "movie-title": "Formula 51",
+    "movie-genre": "Action|Comedy|Crime|Thriller"
+  },
+  { "id": 154, "movie-title": "Manic", "movie-genre": "Drama" },
+  {
+    "id": 155,
+    "movie-title": "Buena Vista Social Club",
+    "movie-genre": "Documentary|Musical"
+  },
+  {
+    "id": 156,
+    "movie-title": "All Blossoms Again: Pedro Costa, Director (Tout refleurit: Pedro Costa, cinéaste)",
+    "movie-genre": "Documentary"
+  },
+  { "id": 157, "movie-title": "Nebraska", "movie-genre": "Adventure|Drama" },
+  { "id": 158, "movie-title": "Mission to Mars", "movie-genre": "Sci-Fi" },
+  { "id": 159, "movie-title": "Our Relations", "movie-genre": "Comedy" },
+  {
+    "id": 160,
+    "movie-title": "Magical Mystery Tour",
+    "movie-genre": "Comedy|Musical"
+  },
+  {
+    "id": 161,
+    "movie-title": "Classe américaine, La (a.k.a. Le grand détournement)",
+    "movie-genre": "Comedy"
+  },
+  {
+    "id": 162,
+    "movie-title": "Three Way",
+    "movie-genre": "Crime|Drama|Thriller"
+  },
+  {
+    "id": 163,
+    "movie-title": "On Top of the Whale (Het dak van de Walvis)",
+    "movie-genre": "Fantasy"
+  },
+  {
+    "id": 164,
+    "movie-title": "Most Likely to Succeed",
+    "movie-genre": "Documentary|Drama"
+  },
+  {
+    "id": 165,
+    "movie-title": "Dangerous Moves (La diagonale du fou)",
+    "movie-genre": "Drama|Thriller"
+  },
+  { "id": 166, "movie-title": "Ignition", "movie-genre": "Action|Drama" },
+  {
+    "id": 167,
+    "movie-title": "Chicken, the Fish and the King Crab, The (El pollo, el pez y el cangrejo real)",
+    "movie-genre": "Documentary"
+  },
+  {
+    "id": 168,
+    "movie-title": "Manborg",
+    "movie-genre": "Action|Adventure|Comedy"
+  },
+  {
+    "id": 169,
+    "movie-title": "Auggie Rose (a.k.a. Beyond Suspicion)",
+    "movie-genre": "Drama|Mystery|Thriller"
+  },
+  {
+    "id": 170,
+    "movie-title": "Sisters of the Gion (Gion no shimai)",
+    "movie-genre": "Drama"
+  },
+  {
+    "id": 171,
+    "movie-title": "Misérables, Les",
+    "movie-genre": "Drama|Musical|Romance|IMAX"
+  },
+  {
+    "id": 172,
+    "movie-title": "Repo Men",
+    "movie-genre": "Action|Sci-Fi|Thriller"
+  },
+  {
+    "id": 173,
+    "movie-title": "Black Peter (Cerný Petr)",
+    "movie-genre": "Drama"
+  },
+  { "id": 174, "movie-title": "Fled", "movie-genre": "Action|Adventure" },
+  {
+    "id": 175,
+    "movie-title": "28 Days Later",
+    "movie-genre": "Action|Horror|Sci-Fi"
+  },
+  { "id": 176, "movie-title": "Good Life, The", "movie-genre": "Comedy|Drama" },
+  {
+    "id": 177,
+    "movie-title": "Yves Saint Laurent",
+    "movie-genre": "Drama|Romance"
+  },
+  {
+    "id": 178,
+    "movie-title": "Passion of the Christ, The",
+    "movie-genre": "Drama"
+  },
+  {
+    "id": 179,
+    "movie-title": "Je, tu, il, elle (I, You, He, She)",
+    "movie-genre": "Drama"
+  },
+  { "id": 180, "movie-title": "The Green", "movie-genre": "Drama" },
+  { "id": 181, "movie-title": "Surrender, Dorothy", "movie-genre": "Drama" },
+  {
+    "id": 182,
+    "movie-title": "Westworld",
+    "movie-genre": "Action|Sci-Fi|Thriller|Western"
+  },
+  {
+    "id": 183,
+    "movie-title": "Lesbian Vampire Killers",
+    "movie-genre": "Action|Comedy|Horror"
+  },
+  {
+    "id": 184,
+    "movie-title": "Seduction of Joe Tynan, The",
+    "movie-genre": "Drama"
+  },
+  {
+    "id": 185,
+    "movie-title": "Another Cinderella Story",
+    "movie-genre": "Children|Comedy|Musical|Romance"
+  },
+  {
+    "id": 186,
+    "movie-title": "Doctor and the Devils, The",
+    "movie-genre": "Drama|Horror"
+  },
+  {
+    "id": 187,
+    "movie-title": "Charlie Chan's Courage",
+    "movie-genre": "Mystery"
+  },
+  {
+    "id": 188,
+    "movie-title": "Sun Alley (Sonnenallee)",
+    "movie-genre": "Comedy|Romance"
+  },
+  {
+    "id": 189,
+    "movie-title": "Any Questions for Ben?",
+    "movie-genre": "Comedy|Drama"
+  },
+  { "id": 190, "movie-title": "Big Stampede, The", "movie-genre": "Western" },
+  {
+    "id": 191,
+    "movie-title": "Black Rain (Kuroi ame)",
+    "movie-genre": "Drama|War"
+  },
+  {
+    "id": 192,
+    "movie-title": "Johnny 100 Pesos (Johnny cien pesos)",
+    "movie-genre": "Action|Drama"
+  },
+  {
+    "id": 193,
+    "movie-title": "All Blossoms Again: Pedro Costa, Director (Tout refleurit: Pedro Costa, cinéaste)",
+    "movie-genre": "Documentary"
+  },
+  {
+    "id": 194,
+    "movie-title": "Damned, The (La Caduta degli dei)",
+    "movie-genre": "Drama|War"
+  },
+  { "id": 195, "movie-title": "Longshots, The", "movie-genre": "Drama" },
+  { "id": 196, "movie-title": "Out of Africa", "movie-genre": "Drama|Romance" },
+  { "id": 197, "movie-title": "House Party", "movie-genre": "Comedy" },
+  {
+    "id": 198,
+    "movie-title": "Elizabethtown",
+    "movie-genre": "Comedy|Drama|Romance"
+  },
+  {
+    "id": 199,
+    "movie-title": "Edge of Tomorrow",
+    "movie-genre": "Action|Sci-Fi|IMAX"
+  },
+  {
+    "id": 200,
+    "movie-title": "Absent-Minded Professor, The",
+    "movie-genre": "Children|Comedy|Fantasy"
+  },
+  {
+    "id": 201,
+    "movie-title": "Murph: The Protector",
+    "movie-genre": "Documentary|War"
+  },
+  {
+    "id": 202,
+    "movie-title": "Thirty-Five Something (Tout pour plaire)",
+    "movie-genre": "Comedy"
+  },
+  {
+    "id": 203,
+    "movie-title": "Village Barbershop, The",
+    "movie-genre": "Comedy|Drama"
+  },
+  {
+    "id": 204,
+    "movie-title": "Big Kahuna, The",
+    "movie-genre": "Comedy|Drama"
+  },
+  {
+    "id": 205,
+    "movie-title": "Margaret Thatcher: The Long Walk to Finchley",
+    "movie-genre": "Drama"
+  },
+  { "id": 206, "movie-title": "Moloch (Molokh)", "movie-genre": "Drama" },
+  { "id": 207, "movie-title": "Sergeant, The", "movie-genre": "Drama" },
+  { "id": 208, "movie-title": "Asphyx, The", "movie-genre": "Horror|Sci-Fi" },
+  {
+    "id": 209,
+    "movie-title": "Maya Lin: A Strong Clear Vision",
+    "movie-genre": "Documentary"
+  },
+  { "id": 210, "movie-title": "Hatful of Rain, A", "movie-genre": "Drama" },
+  { "id": 211, "movie-title": "Sleepaway Camp", "movie-genre": "Horror" },
+  { "id": 212, "movie-title": "Iran Job, The", "movie-genre": "Documentary" },
+  {
+    "id": 213,
+    "movie-title": "Invasion of the Body Snatchers",
+    "movie-genre": "Horror|Mystery|Sci-Fi|Thriller"
+  },
+  {
+    "id": 214,
+    "movie-title": "TPB AFK: The Pirate Bay Away from Keyboard",
+    "movie-genre": "Documentary"
+  },
+  {
+    "id": 215,
+    "movie-title": "Three Fugitives",
+    "movie-genre": "Action|Comedy"
+  },
+  {
+    "id": 216,
+    "movie-title": "Sound of Insects, The",
+    "movie-genre": "Adventure|Documentary|Drama|Mystery|Thriller"
+  },
+  { "id": 217, "movie-title": "Open Season", "movie-genre": "Comedy" },
+  {
+    "id": 218,
+    "movie-title": "Troy",
+    "movie-genre": "Action|Adventure|Drama|War"
+  },
+  { "id": 219, "movie-title": "Pontiac Moon", "movie-genre": "Drama" },
+  {
+    "id": 220,
+    "movie-title": "One Sunday Afternoon",
+    "movie-genre": "Comedy|Romance"
+  },
+  {
+    "id": 221,
+    "movie-title": "Raffles",
+    "movie-genre": "Adventure|Crime|Drama|Romance|Thriller"
+  },
+  {
+    "id": 222,
+    "movie-title": "Manhattan Melodrama",
+    "movie-genre": "Crime|Drama|Romance"
+  },
+  {
+    "id": 223,
+    "movie-title": "Prime Suspect 2",
+    "movie-genre": "Crime|Drama|Mystery|Romance|Thriller"
+  },
+  {
+    "id": 224,
+    "movie-title": "Goat, The (a.k.a. Knock On Wood) (Chèvre, La)",
+    "movie-genre": "Comedy"
+  },
+  {
+    "id": 225,
+    "movie-title": "Second Jungle Book: Mowgli & Baloo, The",
+    "movie-genre": "Adventure|Children"
+  },
+  {
+    "id": 226,
+    "movie-title": "Jeanne and the Perfect Guy (Jeanne et le garçon formidable)",
+    "movie-genre": "Comedy|Drama|Romance"
+  },
+  { "id": 227, "movie-title": "Saturday Night", "movie-genre": "Documentary" },
+  {
+    "id": 228,
+    "movie-title": "Science and Islam",
+    "movie-genre": "Documentary"
+  },
+  {
+    "id": 229,
+    "movie-title": "Forbidden City Cop (Dai lap mat tam 008)",
+    "movie-genre": "Action|Comedy"
+  },
+  { "id": 230, "movie-title": "Sexy Baby", "movie-genre": "Documentary" },
+  {
+    "id": 231,
+    "movie-title": "River of No Return",
+    "movie-genre": "Adventure|Western"
+  },
+  { "id": 232, "movie-title": "Impact", "movie-genre": "Crime|Drama" },
+  {
+    "id": 233,
+    "movie-title": "Tank on the Moon",
+    "movie-genre": "Documentary"
+  },
+  {
+    "id": 234,
+    "movie-title": "Lost Highway",
+    "movie-genre": "Crime|Drama|Fantasy|Film-Noir|Mystery|Romance"
+  },
+  {
+    "id": 235,
+    "movie-title": "Hands of Orlac, The (Orlacs Hände)",
+    "movie-genre": "Crime|Horror"
+  },
+  { "id": 236, "movie-title": "Cargo", "movie-genre": "Sci-Fi" },
+  {
+    "id": 237,
+    "movie-title": "Grandfather, The (Abuelo, El)",
+    "movie-genre": "Drama"
+  },
+  {
+    "id": 238,
+    "movie-title": "Shark Alarm at Müggelsee (Hai Alarm am Müggelsee)",
+    "movie-genre": "Comedy"
+  },
+  {
+    "id": 239,
+    "movie-title": "Lost in Translation",
+    "movie-genre": "Comedy|Drama|Romance"
+  },
+  { "id": 240, "movie-title": "Gambit", "movie-genre": "Comedy|Crime" },
+  {
+    "id": 241,
+    "movie-title": "My Darling Clementine",
+    "movie-genre": "Western"
+  },
+  {
+    "id": 242,
+    "movie-title": "Final Destination",
+    "movie-genre": "Drama|Thriller"
+  },
+  {
+    "id": 243,
+    "movie-title": "Agora",
+    "movie-genre": "Adventure|Drama|Romance"
+  },
+  {
+    "id": 244,
+    "movie-title": "Maybe, Maybe Not (Bewegte Mann, Der)",
+    "movie-genre": "Comedy"
+  },
+  {
+    "id": 245,
+    "movie-title": "God Is the Bigger Elvis",
+    "movie-genre": "Documentary"
+  },
+  {
+    "id": 246,
+    "movie-title": "In the Edges: The 'Grizzly Man' Session ",
+    "movie-genre": "Documentary"
+  },
+  {
+    "id": 247,
+    "movie-title": "Birdemic: Shock and Terror",
+    "movie-genre": "Romance|Thriller"
+  },
+  {
+    "id": 248,
+    "movie-title": "Rambo (Rambo 4)",
+    "movie-genre": "Action|Drama|Thriller|War"
+  },
+  {
+    "id": 249,
+    "movie-title": "Teenage Mutant Ninja Turtles",
+    "movie-genre": "Action|Children|Comedy|Fantasy|Sci-Fi"
+  },
+  {
+    "id": 250,
+    "movie-title": "Gunfighters",
+    "movie-genre": "Action|Drama|Romance|Western"
+  },
+  {
+    "id": 251,
+    "movie-title": "Four Friends (a.k.a. Georgia's Friends)",
+    "movie-genre": "Drama"
+  },
+  { "id": 252, "movie-title": "Wildcats", "movie-genre": "Comedy" },
+  {
+    "id": 253,
+    "movie-title": "Invasion, The",
+    "movie-genre": "Action|Drama|Horror|Sci-Fi|Thriller"
+  },
+  {
+    "id": 254,
+    "movie-title": "Good Hair",
+    "movie-genre": "Comedy|Documentary"
+  },
+  {
+    "id": 255,
+    "movie-title": "God Help the Girl",
+    "movie-genre": "Drama|Musical|Romance"
+  },
+  {
+    "id": 256,
+    "movie-title": "Hamilton - In the Interest of the Nation",
+    "movie-genre": "Action|Drama|Thriller"
+  },
+  { "id": 257, "movie-title": "Väreitä", "movie-genre": "Drama" },
+  {
+    "id": 258,
+    "movie-title": "Signal, The",
+    "movie-genre": "Horror|Sci-Fi|Thriller"
+  },
+  { "id": 259, "movie-title": "Fireproof", "movie-genre": "Drama|Romance" },
+  { "id": 260, "movie-title": "Hamlet (Gamlet)", "movie-genre": "Drama" },
+  { "id": 261, "movie-title": "Ladies Man, The", "movie-genre": "Comedy" },
+  { "id": 262, "movie-title": "Pretty Sweet", "movie-genre": "Documentary" },
+  { "id": 263, "movie-title": "Zero Charisma", "movie-genre": "Comedy|Drama" },
+  { "id": 264, "movie-title": "Josephine", "movie-genre": "Comedy|Romance" },
+  { "id": 265, "movie-title": "Gloria", "movie-genre": "Drama|Thriller" },
+  {
+    "id": 266,
+    "movie-title": "Mistaken for Strangers",
+    "movie-genre": "Comedy|Documentary"
+  },
+  { "id": 267, "movie-title": "Cruise, The", "movie-genre": "Documentary" },
+  {
+    "id": 268,
+    "movie-title": "Cypher",
+    "movie-genre": "Action|Sci-Fi|Thriller"
+  },
+  {
+    "id": 269,
+    "movie-title": "Mob, The",
+    "movie-genre": "Crime|Drama|Film-Noir"
+  },
+  {
+    "id": 270,
+    "movie-title": "Anvil! The Story of Anvil",
+    "movie-genre": "Documentary|Musical"
+  },
+  {
+    "id": 271,
+    "movie-title": "TPB AFK: The Pirate Bay Away from Keyboard",
+    "movie-genre": "Documentary"
+  },
+  { "id": 272, "movie-title": "Lorenzo's Oil", "movie-genre": "Drama" },
+  { "id": 273, "movie-title": "Just Pals", "movie-genre": "Western" },
+  {
+    "id": 274,
+    "movie-title": "Serbian Film, A (Srpski film)",
+    "movie-genre": "Horror|Thriller"
+  },
+  { "id": 275, "movie-title": "Spud", "movie-genre": "Comedy" },
+  { "id": 276, "movie-title": "Slaughter", "movie-genre": "Horror|Thriller" },
+  { "id": 277, "movie-title": "Hawaii", "movie-genre": "Romance" },
+  {
+    "id": 278,
+    "movie-title": "Glass Slipper, The",
+    "movie-genre": "Musical|Romance"
+  },
+  {
+    "id": 279,
+    "movie-title": "Dark Corner, The",
+    "movie-genre": "Crime|Drama|Film-Noir"
+  },
+  {
+    "id": 280,
+    "movie-title": "Charlie's Angels",
+    "movie-genre": "Action|Comedy"
+  },
+  {
+    "id": 281,
+    "movie-title": "Dreamer: Inspired by a True Story",
+    "movie-genre": "Children|Drama"
+  },
+  { "id": 282, "movie-title": "Fans", "movie-genre": "Comedy" },
+  { "id": 283, "movie-title": "Shine", "movie-genre": "Drama|Romance" },
+  {
+    "id": 284,
+    "movie-title": "Day Night Day Night",
+    "movie-genre": "Crime|Drama|Thriller"
+  },
+  {
+    "id": 285,
+    "movie-title": "Bonhoeffer: Agent of Grace",
+    "movie-genre": "Drama"
+  },
+  { "id": 286, "movie-title": "Better Living", "movie-genre": "Comedy" },
+  {
+    "id": 287,
+    "movie-title": "Rouva presidentti",
+    "movie-genre": "Documentary"
+  },
+  { "id": 288, "movie-title": "Program, The", "movie-genre": "Action|Drama" },
+  {
+    "id": 289,
+    "movie-title": "Mysteries of Lisbon (Mistérios de Lisboa)",
+    "movie-genre": "Drama|Mystery"
+  },
+  { "id": 290, "movie-title": "I Think I Do", "movie-genre": "Comedy" },
+  {
+    "id": 291,
+    "movie-title": "Invisible Woman, The",
+    "movie-genre": "Comedy|Romance|Sci-Fi"
+  },
+  {
+    "id": 292,
+    "movie-title": "Barbary Coast",
+    "movie-genre": "Adventure|Drama|Romance|Western"
+  },
+  {
+    "id": 293,
+    "movie-title": "Wife vs. Secretary",
+    "movie-genre": "Comedy|Drama|Romance"
+  },
+  {
+    "id": 294,
+    "movie-title": "Year of the Hare, The (Jäniksen vuosi)",
+    "movie-genre": "Drama|Romance"
+  },
+  {
+    "id": 295,
+    "movie-title": "For the Love of Benji",
+    "movie-genre": "Adventure|Children|Comedy|Drama"
+  },
+  {
+    "id": 296,
+    "movie-title": "Justice League: Doom ",
+    "movie-genre": "Action|Animation|Fantasy"
+  },
+  {
+    "id": 297,
+    "movie-title": "Contagion",
+    "movie-genre": "Sci-Fi|Thriller|IMAX"
+  },
+  {
+    "id": 298,
+    "movie-title": "Cost of Living, The (Le coût de la vie)",
+    "movie-genre": "Comedy"
+  },
+  {
+    "id": 299,
+    "movie-title": "Play Time (a.k.a. Playtime)",
+    "movie-genre": "Comedy"
+  },
+  {
+    "id": 300,
+    "movie-title": "Cars 2",
+    "movie-genre": "Adventure|Animation|Children|Comedy|IMAX"
+  },
+  {
+    "id": 301,
+    "movie-title": "Two Days in April",
+    "movie-genre": "Documentary"
+  },
+  {
+    "id": 302,
+    "movie-title": "Dreams of  a Life",
+    "movie-genre": "Documentary"
+  },
+  {
+    "id": 303,
+    "movie-title": "One Deadly Summer (L'été meurtrier)",
+    "movie-genre": "Comedy|Drama|Mystery"
+  },
+  {
+    "id": 304,
+    "movie-title": "Warm December, A",
+    "movie-genre": "Drama|Romance"
+  },
+  { "id": 305, "movie-title": "Smoking/No Smoking", "movie-genre": "Comedy" },
+  { "id": 306, "movie-title": "Vodka Lemon", "movie-genre": "Comedy|Drama" },
+  {
+    "id": 307,
+    "movie-title": "Sex and Breakfast",
+    "movie-genre": "Comedy|Drama|Romance"
+  },
+  { "id": 308, "movie-title": "Paper Planes", "movie-genre": "Children" },
+  {
+    "id": 309,
+    "movie-title": "Europa Report",
+    "movie-genre": "Sci-Fi|Thriller"
+  },
+  {
+    "id": 310,
+    "movie-title": "Tension",
+    "movie-genre": "Crime|Drama|Film-Noir|Romance"
+  },
+  { "id": 311, "movie-title": "Voyage of the Damned", "movie-genre": "Drama" },
+  {
+    "id": 312,
+    "movie-title": "Rumble in the Air-Conditioned Auditorium: O'Reilly vs. Stewart 2012, The",
+    "movie-genre": "Comedy"
+  },
+  { "id": 313, "movie-title": "$9.99", "movie-genre": "Animation" },
+  { "id": 314, "movie-title": "Grown Ups 2", "movie-genre": "Comedy" },
+  {
+    "id": 315,
+    "movie-title": "My Best Friend's Wife",
+    "movie-genre": "Comedy"
+  },
+  {
+    "id": 316,
+    "movie-title": "Film About a Woman Who...",
+    "movie-genre": "Drama"
+  },
+  { "id": 317, "movie-title": "Float", "movie-genre": "Drama|Romance" },
+  {
+    "id": 318,
+    "movie-title": "With Great Power: The Stan Lee Story",
+    "movie-genre": "Documentary"
+  },
+  { "id": 319, "movie-title": "Milwaukee, Minnesota", "movie-genre": "Drama" },
+  { "id": 320, "movie-title": "All Night Long", "movie-genre": "Drama" },
+  { "id": 321, "movie-title": "Antarctica", "movie-genre": "Adventure|Drama" },
+  {
+    "id": 322,
+    "movie-title": "Red White & Blue",
+    "movie-genre": "Drama|Mystery|Romance"
+  },
+  {
+    "id": 323,
+    "movie-title": "Prom Night IV: Deliver Us From Evil",
+    "movie-genre": "Horror"
+  },
+  {
+    "id": 324,
+    "movie-title": "Steam Experiment, The",
+    "movie-genre": "Drama|Thriller"
+  },
+  { "id": 325, "movie-title": "Rumble Fish", "movie-genre": "Drama" },
+  { "id": 326, "movie-title": "Enchantment", "movie-genre": "Drama|Romance" },
+  {
+    "id": 327,
+    "movie-title": "Jungle de Ikou (Jungre de Ikou)",
+    "movie-genre": "Action|Comedy|Fantasy"
+  },
+  {
+    "id": 328,
+    "movie-title": "Late Show, The",
+    "movie-genre": "Comedy|Crime|Drama|Mystery"
+  },
+  { "id": 329, "movie-title": "Ben", "movie-genre": "Horror|Thriller" },
+  {
+    "id": 330,
+    "movie-title": "Love Me or Leave Me",
+    "movie-genre": "Drama|Musical|Romance"
+  },
+  { "id": 331, "movie-title": "First Love", "movie-genre": "Comedy|Musical" },
+  {
+    "id": 332,
+    "movie-title": "Eyes of a Stranger",
+    "movie-genre": "Horror|Thriller"
+  },
+  {
+    "id": 333,
+    "movie-title": "A Viking Saga: The Darkest Day",
+    "movie-genre": "Action|Adventure|Thriller"
+  },
+  {
+    "id": 334,
+    "movie-title": "Final Darkness, The (Buio Omega)",
+    "movie-genre": "Horror"
+  },
+  {
+    "id": 335,
+    "movie-title": "Zatoichi and the Chest of Gold (Zatôichi senryô-kubi) (Zatôichi 6)",
+    "movie-genre": "Action|Drama"
+  },
+  { "id": 336, "movie-title": "Galileo", "movie-genre": "Drama" },
+  {
+    "id": 337,
+    "movie-title": "MC5: Kick Out the Jams",
+    "movie-genre": "Documentary"
+  },
+  { "id": 338, "movie-title": "Footloose", "movie-genre": "Drama" },
+  {
+    "id": 339,
+    "movie-title": "Margaret Cho: Assassin",
+    "movie-genre": "Comedy"
+  },
+  {
+    "id": 340,
+    "movie-title": "Matilda",
+    "movie-genre": "Children|Comedy|Fantasy"
+  },
+  { "id": 341, "movie-title": "Freejack", "movie-genre": "Action|Sci-Fi" },
+  {
+    "id": 342,
+    "movie-title": "White Fang 2: Myth of the White Wolf",
+    "movie-genre": "Adventure|Children"
+  },
+  { "id": 343, "movie-title": "The Hunters", "movie-genre": "Adventure" },
+  {
+    "id": 344,
+    "movie-title": "Yank in the R.A.F., A",
+    "movie-genre": "Action|Adventure|Drama|Romance|War"
+  },
+  { "id": 345, "movie-title": "Code, The", "movie-genre": "Documentary" },
+  {
+    "id": 346,
+    "movie-title": "Lookout, The",
+    "movie-genre": "Crime|Drama|Thriller"
+  },
+  { "id": 347, "movie-title": "Heist", "movie-genre": "Crime|Drama" },
+  {
+    "id": 348,
+    "movie-title": "I Saw Mommy Kissing Santa Claus",
+    "movie-genre": "Children|Comedy"
+  },
+  {
+    "id": 349,
+    "movie-title": "Lego: The Adventures of Clutch Powers",
+    "movie-genre": "Action|Animation"
+  },
+  {
+    "id": 350,
+    "movie-title": "Bombshell",
+    "movie-genre": "Comedy|Drama|Romance"
+  },
+  {
+    "id": 351,
+    "movie-title": "Pervert's Guide to Cinema, The",
+    "movie-genre": "Documentary"
+  },
+  {
+    "id": 352,
+    "movie-title": "Toxic Avenger, Part II, The",
+    "movie-genre": "Comedy|Horror"
+  },
+  { "id": 353, "movie-title": "Bullet", "movie-genre": "Action|Crime|Drama" },
+  {
+    "id": 354,
+    "movie-title": "My One and Only",
+    "movie-genre": "Comedy|Drama"
+  },
+  {
+    "id": 355,
+    "movie-title": "Tremors 3: Back to Perfection",
+    "movie-genre": "Comedy|Horror|Sci-Fi"
+  },
+  { "id": 356, "movie-title": "Aloft", "movie-genre": "Drama" },
+  { "id": 357, "movie-title": "Forbidden", "movie-genre": "Drama|Romance" },
+  {
+    "id": 358,
+    "movie-title": "Floating Clouds  (Ukigumo)",
+    "movie-genre": "Drama|Romance"
+  },
+  { "id": 359, "movie-title": "Besotted", "movie-genre": "Drama" },
+  {
+    "id": 360,
+    "movie-title": "Foreign Affair, A",
+    "movie-genre": "Comedy|Romance"
+  },
+  {
+    "id": 361,
+    "movie-title": "Caliber 9",
+    "movie-genre": "Action|Crime|Thriller"
+  },
+  {
+    "id": 362,
+    "movie-title": "Symbol (Shinboru)",
+    "movie-genre": "Comedy|Fantasy"
+  },
+  {
+    "id": 363,
+    "movie-title": "Siffleurs, Les (Viheltäjät)",
+    "movie-genre": "Drama"
+  },
+  {
+    "id": 364,
+    "movie-title": "Last Song, The",
+    "movie-genre": "Drama|Romance"
+  },
+  {
+    "id": 365,
+    "movie-title": "Legend II, The (Fong Sai Yuk juk jaap)",
+    "movie-genre": "Action|Adventure|Comedy"
+  },
+  { "id": 366, "movie-title": "Flesh", "movie-genre": "Drama" },
+  {
+    "id": 367,
+    "movie-title": "Frontier of the Dawn (La frontière de l'aube)",
+    "movie-genre": "Drama"
+  },
+  {
+    "id": 368,
+    "movie-title": "How Do You Write a Joe Schermann Song",
+    "movie-genre": "Comedy|Drama|Musical"
+  },
+  {
+    "id": 369,
+    "movie-title": "Land Before Time III: The Time of the Great Giving",
+    "movie-genre": "Adventure|Animation|Children|Musical"
+  },
+  { "id": 370, "movie-title": "Flodder 3", "movie-genre": "Comedy" },
+  {
+    "id": 371,
+    "movie-title": "Good For Nothing",
+    "movie-genre": "Comedy|Western"
+  },
+  {
+    "id": 372,
+    "movie-title": "Yours, Mine and Ours",
+    "movie-genre": "Comedy|Romance"
+  },
+  { "id": 373, "movie-title": "Eulogy", "movie-genre": "Comedy|Crime|Drama" },
+  {
+    "id": 374,
+    "movie-title": "Slim Susie (Smala Sussie)",
+    "movie-genre": "Comedy|Crime|Mystery"
+  },
+  {
+    "id": 375,
+    "movie-title": "Kabei: Our Mother (Kâbê)",
+    "movie-genre": "Drama"
+  },
+  {
+    "id": 376,
+    "movie-title": "Armored Car Robbery",
+    "movie-genre": "Crime|Film-Noir|Thriller"
+  },
+  {
+    "id": 377,
+    "movie-title": "Phantom of the Opera, The",
+    "movie-genre": "Drama|Horror"
+  },
+  {
+    "id": 378,
+    "movie-title": "Stepford Wives, The",
+    "movie-genre": "Mystery|Sci-Fi|Thriller"
+  },
+  { "id": 379, "movie-title": "Galileo", "movie-genre": "Drama" },
+  { "id": 380, "movie-title": "My Man Godfrey", "movie-genre": "Comedy" },
+  { "id": 381, "movie-title": "Bloodtide", "movie-genre": "Horror" },
+  { "id": 382, "movie-title": "Isolation", "movie-genre": "Horror|Thriller" },
+  {
+    "id": 383,
+    "movie-title": "Woman in Black, The",
+    "movie-genre": "Horror|Mystery"
+  },
+  {
+    "id": 384,
+    "movie-title": "Letters from Iwo Jima",
+    "movie-genre": "Drama|War"
+  },
+  { "id": 385, "movie-title": "Unholy", "movie-genre": "Horror|Thriller" },
+  { "id": 386, "movie-title": "Chalte Chalte", "movie-genre": "Drama" },
+  {
+    "id": 387,
+    "movie-title": "Leonard Cohen: I'm Your Man",
+    "movie-genre": "Documentary|Musical"
+  },
+  {
+    "id": 388,
+    "movie-title": "Paranormal Activity 4",
+    "movie-genre": "Horror|IMAX"
+  },
+  { "id": 389, "movie-title": "Frontrunners", "movie-genre": "Documentary" },
+  {
+    "id": 390,
+    "movie-title": "This Woman Is Dangerous",
+    "movie-genre": "Crime|Drama"
+  },
+  {
+    "id": 391,
+    "movie-title": "Million Ways to Die in the West, A",
+    "movie-genre": "Comedy|Western"
+  },
+  { "id": 392, "movie-title": "Casino Jack", "movie-genre": "Comedy|Crime" },
+  { "id": 393, "movie-title": "Fados", "movie-genre": "Documentary|Musical" },
+  { "id": 394, "movie-title": "Stag", "movie-genre": "Action|Thriller" },
+  { "id": 395, "movie-title": "A Master Builder", "movie-genre": "Drama" },
+  {
+    "id": 396,
+    "movie-title": "Conan the Barbarian",
+    "movie-genre": "Action|Adventure|Fantasy"
+  },
+  {
+    "id": 397,
+    "movie-title": "Lives of Others, The (Das leben der Anderen)",
+    "movie-genre": "Drama|Romance|Thriller"
+  },
+  {
+    "id": 398,
+    "movie-title": "Hunger Games, The",
+    "movie-genre": "Action|Adventure|Drama|Sci-Fi|Thriller"
+  },
+  {
+    "id": 399,
+    "movie-title": "Enter Nowhere",
+    "movie-genre": "Mystery|Thriller"
+  },
+  {
+    "id": 400,
+    "movie-title": "I Love Trouble",
+    "movie-genre": "Action|Comedy"
+  },
+  {
+    "id": 401,
+    "movie-title": "From Time to Time",
+    "movie-genre": "Adventure|Drama|Fantasy"
+  },
+  {
+    "id": 402,
+    "movie-title": "Workingman's Death",
+    "movie-genre": "Documentary"
+  },
+  { "id": 403, "movie-title": "Pirates", "movie-genre": "Adventure|Comedy" },
+  {
+    "id": 404,
+    "movie-title": "Max Payne",
+    "movie-genre": "Action|Crime|Drama|Thriller"
+  },
+  {
+    "id": 405,
+    "movie-title": "Sign of Leo, The (Signe du lion, Le)",
+    "movie-genre": "Drama"
+  },
+  {
+    "id": 406,
+    "movie-title": "They Made Me a Criminal (I Became a Criminal) (They Made Me a Fugitive)",
+    "movie-genre": "Crime|Drama"
+  },
+  {
+    "id": 407,
+    "movie-title": "Show Boat",
+    "movie-genre": "Drama|Musical|Romance"
+  },
+  {
+    "id": 408,
+    "movie-title": "Purge, The",
+    "movie-genre": "Crime|Horror|Thriller"
+  },
+  { "id": 409, "movie-title": "Locke", "movie-genre": "Drama" },
+  { "id": 410, "movie-title": "To Joy (Till glädje)", "movie-genre": "Drama" },
+  { "id": 411, "movie-title": "Children, The", "movie-genre": "Horror" },
+  { "id": 412, "movie-title": "Big Momma's House", "movie-genre": "Comedy" },
+  {
+    "id": 413,
+    "movie-title": "War Comes to America (Why We Fight, 7)",
+    "movie-genre": "Documentary|War"
+  },
+  {
+    "id": 414,
+    "movie-title": "Moon Is Blue, The",
+    "movie-genre": "Comedy|Romance"
+  },
+  {
+    "id": 415,
+    "movie-title": "Trailer Park Boys: Don't Legalize It",
+    "movie-genre": "Comedy|Crime|Drama"
+  },
+  {
+    "id": 416,
+    "movie-title": "The Four Feathers",
+    "movie-genre": "Adventure|Drama|Romance|War"
+  },
+  { "id": 417, "movie-title": "Boyhood", "movie-genre": "Drama" },
+  {
+    "id": 418,
+    "movie-title": "The Second Best Exotic Marigold Hotel",
+    "movie-genre": "Comedy|Drama"
+  },
+  {
+    "id": 419,
+    "movie-title": "Crucified Lovers, The (Chikamatsu monogatari)",
+    "movie-genre": "Drama"
+  },
+  {
+    "id": 420,
+    "movie-title": "Heart and Souls",
+    "movie-genre": "Comedy|Fantasy"
+  },
+  { "id": 421, "movie-title": "S.F.W.", "movie-genre": "Drama" },
+  {
+    "id": 422,
+    "movie-title": "Zatoichi Challenged (Zatôichi chikemuri kaidô) (Zatôichi 17)",
+    "movie-genre": "Action|Drama"
+  },
+  {
+    "id": 423,
+    "movie-title": "Final Approach",
+    "movie-genre": "Sci-Fi|Thriller"
+  },
+  {
+    "id": 424,
+    "movie-title": "In the Name of the King 2: Two Worlds",
+    "movie-genre": "Action|Adventure|Drama|Fantasy"
+  },
+  { "id": 425, "movie-title": "Eye of the Storm, The", "movie-genre": "Drama" },
+  {
+    "id": 426,
+    "movie-title": "The Big One: The Great Los Angeles Earthquake",
+    "movie-genre": "Drama"
+  },
+  { "id": 427, "movie-title": "Rigoletto", "movie-genre": "Drama" },
+  {
+    "id": 428,
+    "movie-title": "Phantasm III: Lord of the Dead",
+    "movie-genre": "Horror"
+  },
+  { "id": 429, "movie-title": "Dirty Shame, A", "movie-genre": "Comedy" },
+  {
+    "id": 430,
+    "movie-title": "Dolan's Cadillac",
+    "movie-genre": "Crime|Thriller"
+  },
+  {
+    "id": 431,
+    "movie-title": "Big Squeeze, The",
+    "movie-genre": "Comedy|Drama"
+  },
+  {
+    "id": 432,
+    "movie-title": "Chesty: A Tribute to a Legend",
+    "movie-genre": "Documentary"
+  },
+  {
+    "id": 433,
+    "movie-title": "Paris-Manhattan",
+    "movie-genre": "Comedy|Romance"
+  },
+  {
+    "id": 434,
+    "movie-title": "With a Song in My Heart",
+    "movie-genre": "Drama|Musical"
+  },
+  {
+    "id": 435,
+    "movie-title": "Sexual Chronicles of a French Family (Chroniques sexuelles d'une famille d'aujourd'hui)",
+    "movie-genre": "Comedy|Drama"
+  },
+  {
+    "id": 436,
+    "movie-title": "Eddie Izzard: Force Majeure Live",
+    "movie-genre": "Comedy"
+  },
+  {
+    "id": 437,
+    "movie-title": "Human Resources Manager, The",
+    "movie-genre": "Drama"
+  },
+  { "id": 438, "movie-title": "House", "movie-genre": "Comedy|Fantasy|Horror" },
+  {
+    "id": 439,
+    "movie-title": "Bringing Down the House",
+    "movie-genre": "Comedy"
+  },
+  { "id": 440, "movie-title": "Warlock", "movie-genre": "Action|Horror" },
+  {
+    "id": 441,
+    "movie-title": "My Brother's Wife (Mujer de mi hermano, La)",
+    "movie-genre": "Drama"
+  },
+  {
+    "id": 442,
+    "movie-title": "Unconditional Love",
+    "movie-genre": "Comedy|Drama"
+  },
+  { "id": 443, "movie-title": "Joy of Sex", "movie-genre": "Comedy|Romance" },
+  { "id": 444, "movie-title": "Hell's Angels", "movie-genre": "Drama|War" },
+  {
+    "id": 445,
+    "movie-title": "Class of Nuke 'Em High Part II: Subhumanoid Meltdown",
+    "movie-genre": "Comedy|Horror|Sci-Fi"
+  },
+  { "id": 446, "movie-title": "Ridicule", "movie-genre": "Drama" },
+  {
+    "id": 447,
+    "movie-title": "Livid (Livide)",
+    "movie-genre": "Fantasy|Horror"
+  },
+  {
+    "id": 448,
+    "movie-title": "Pajama Game, The",
+    "movie-genre": "Comedy|Musical|Romance"
+  },
+  {
+    "id": 449,
+    "movie-title": "Genius Within: The Inner Life of Glenn Gould",
+    "movie-genre": "Documentary"
+  },
+  {
+    "id": 450,
+    "movie-title": "Beach Boys: An American Family, The",
+    "movie-genre": "Documentary|Drama"
+  },
+  { "id": 451, "movie-title": "I Bury the Living", "movie-genre": "Horror" },
+  {
+    "id": 452,
+    "movie-title": "Churchill: The Hollywood Years",
+    "movie-genre": "Comedy|War"
+  },
+  { "id": 453, "movie-title": "Amati Girls, The", "movie-genre": "Drama" },
+  {
+    "id": 454,
+    "movie-title": "Platinum Blonde",
+    "movie-genre": "Comedy|Romance"
+  },
+  { "id": 455, "movie-title": "Made in Britain", "movie-genre": "Crime|Drama" },
+  {
+    "id": 456,
+    "movie-title": "While the City Sleeps",
+    "movie-genre": "Drama|Film-Noir"
+  },
+  {
+    "id": 457,
+    "movie-title": "And God Created Woman (Et Dieu... créa la femme)",
+    "movie-genre": "Drama"
+  },
+  {
+    "id": 458,
+    "movie-title": "Blithe Spirit",
+    "movie-genre": "Comedy|Drama|Fantasy|Romance"
+  },
+  {
+    "id": 459,
+    "movie-title": "Hot Spot, The",
+    "movie-genre": "Crime|Drama|Romance"
+  },
+  { "id": 460, "movie-title": "Howl", "movie-genre": "Drama" },
+  {
+    "id": 461,
+    "movie-title": "Battleground",
+    "movie-genre": "Action|Drama|War"
+  },
+  {
+    "id": 462,
+    "movie-title": "Playing It Cool",
+    "movie-genre": "Comedy|Romance"
+  },
+  {
+    "id": 463,
+    "movie-title": "Intentions of Murder (a.k.a. Murderous Instincts) (Akai satsui)",
+    "movie-genre": "Drama"
+  },
+  {
+    "id": 464,
+    "movie-title": "Koruto wa ore no pasupooto (Colt Is My Passport, A)",
+    "movie-genre": "Action|Crime|Drama"
+  },
+  {
+    "id": 465,
+    "movie-title": "Home Alone: The Holiday Heist",
+    "movie-genre": "Children|Comedy|Crime"
+  },
+  {
+    "id": 466,
+    "movie-title": "Golden Compass, The",
+    "movie-genre": "Adventure|Children|Fantasy"
+  },
+  { "id": 467, "movie-title": "Jerk, The", "movie-genre": "Comedy" },
+  {
+    "id": 468,
+    "movie-title": "I Could Never Be Your Woman",
+    "movie-genre": "Comedy|Romance"
+  },
+  { "id": 469, "movie-title": "Fred: The Movie", "movie-genre": "Comedy" },
+  {
+    "id": 470,
+    "movie-title": "Once Upon a Time in America",
+    "movie-genre": "Crime|Drama"
+  },
+  {
+    "id": 471,
+    "movie-title": "Provocateur (Prowokator)",
+    "movie-genre": "Drama"
+  },
+  {
+    "id": 472,
+    "movie-title": "Flandres (Flanders)",
+    "movie-genre": "Action|Drama|War"
+  },
+  {
+    "id": 473,
+    "movie-title": "Blue in the Face",
+    "movie-genre": "Comedy|Drama"
+  },
+  {
+    "id": 474,
+    "movie-title": "Stepfather II",
+    "movie-genre": "Horror|Thriller"
+  },
+  { "id": 475, "movie-title": "Forgotten One, The", "movie-genre": "Thriller" },
+  {
+    "id": 476,
+    "movie-title": "Kandahar (Safar e Ghandehar)",
+    "movie-genre": "Drama"
+  },
+  { "id": 477, "movie-title": "Blood Moon", "movie-genre": "Drama|Horror" },
+  {
+    "id": 478,
+    "movie-title": "Jackass Presents: Bad Grandpa .5",
+    "movie-genre": "Comedy|Documentary"
+  },
+  {
+    "id": 479,
+    "movie-title": "Shenandoah",
+    "movie-genre": "Drama|War|Western"
+  },
+  {
+    "id": 480,
+    "movie-title": "Thomasine & Bushrod",
+    "movie-genre": "Action|Crime|Western"
+  },
+  {
+    "id": 481,
+    "movie-title": "This Is My Life",
+    "movie-genre": "Comedy|Drama"
+  },
+  { "id": 482, "movie-title": "Swing Shift", "movie-genre": "Drama" },
+  {
+    "id": 483,
+    "movie-title": "Sahara",
+    "movie-genre": "Action|Adventure|Comedy"
+  },
+  {
+    "id": 484,
+    "movie-title": "Greening of Whitney Brown, The",
+    "movie-genre": "Adventure"
+  },
+  {
+    "id": 485,
+    "movie-title": "Odette Toulemonde",
+    "movie-genre": "Comedy|Drama"
+  },
+  {
+    "id": 486,
+    "movie-title": "Beware of a Holy Whore (Warnung vor einer heiligen Nutte)",
+    "movie-genre": "Comedy|Drama"
+  },
+  {
+    "id": 487,
+    "movie-title": "The Rabbi's Cat (Le chat du rabbin)",
+    "movie-genre": "Adventure|Animation"
+  },
+  { "id": 488, "movie-title": "Elizabeth", "movie-genre": "Drama" },
+  { "id": 489, "movie-title": "Big Fan", "movie-genre": "Comedy|Crime|Drama" },
+  {
+    "id": 490,
+    "movie-title": "Slap Her... She's French (a.k.a. She Gets What She Wants)",
+    "movie-genre": "Comedy"
+  },
+  {
+    "id": 491,
+    "movie-title": "Because of Winn-Dixie",
+    "movie-genre": "Children|Comedy|Drama"
+  },
+  { "id": 492, "movie-title": "We Live Again", "movie-genre": "Drama" },
+  {
+    "id": 493,
+    "movie-title": "Nightmares in Red White & Blue: The Evolution of the American Horror Film",
+    "movie-genre": "Documentary|Horror"
+  },
+  { "id": 494, "movie-title": "Finding Forrester", "movie-genre": "Drama" },
+  { "id": 495, "movie-title": "Hi-Life", "movie-genre": "Comedy|Romance" },
+  { "id": 496, "movie-title": "I Am Michael", "movie-genre": "Drama" },
+  {
+    "id": 497,
+    "movie-title": "Made of Honor",
+    "movie-genre": "Comedy|Romance"
+  },
+  { "id": 498, "movie-title": "Third Star", "movie-genre": "Comedy|Drama" },
+  { "id": 499, "movie-title": "Doghouse", "movie-genre": "Comedy|Horror" },
+  {
+    "id": 500,
+    "movie-title": "Enquiring Minds: The Untold Story of the Man Behind the National Enquirer",
+    "movie-genre": "Documentary"
+  },
+  { "id": 501, "movie-title": "Eureka", "movie-genre": "Drama" },
+  {
+    "id": 502,
+    "movie-title": "Dinotopia: Quest for the Ruby Sunstone",
+    "movie-genre": "Children|Fantasy|Sci-Fi"
+  },
+  {
+    "id": 503,
+    "movie-title": "Go for Zucker! (Alles auf Zucker!)",
+    "movie-genre": "Comedy"
+  },
+  {
+    "id": 504,
+    "movie-title": "Wild Hunt, The",
+    "movie-genre": "Drama|Thriller"
+  },
+  {
+    "id": 505,
+    "movie-title": "In the City of Sylvia (En la ciudad de Sylvia)",
+    "movie-genre": "Drama"
+  },
+  { "id": 506, "movie-title": "Running", "movie-genre": "Drama" },
+  { "id": 507, "movie-title": "Zerophilia", "movie-genre": "Comedy|Romance" },
+  {
+    "id": 508,
+    "movie-title": "Death Before Dishonor",
+    "movie-genre": "Action|Drama"
+  },
+  {
+    "id": 509,
+    "movie-title": "Merry Jail, The (Das fidele Gefängnis)",
+    "movie-genre": "Comedy|Romance"
+  },
+  { "id": 510, "movie-title": "Narcissus", "movie-genre": "Musical" },
+  {
+    "id": 511,
+    "movie-title": "Zombies on Broadway",
+    "movie-genre": "Comedy|Fantasy|Horror"
+  },
+  { "id": 512, "movie-title": "Goyokin", "movie-genre": "Action|Drama" },
+  {
+    "id": 513,
+    "movie-title": "Silent Sonata",
+    "movie-genre": "Drama|Fantasy|War"
+  },
+  { "id": 514, "movie-title": "Zodiac", "movie-genre": "Sci-Fi" },
+  { "id": 515, "movie-title": "Little Nicky", "movie-genre": "Comedy" },
+  { "id": 516, "movie-title": "Stepmom", "movie-genre": "Drama" },
+  { "id": 517, "movie-title": "Three Strangers", "movie-genre": "Crime|Drama" },
+  {
+    "id": 518,
+    "movie-title": "Folies Bergere de Paris",
+    "movie-genre": "Comedy|Musical"
+  },
+  {
+    "id": 519,
+    "movie-title": "Blind Massage (Tui na)",
+    "movie-genre": "Drama"
+  },
+  {
+    "id": 520,
+    "movie-title": "Bab'Aziz -The Prince Who Contemplated His Soul",
+    "movie-genre": "Drama"
+  },
+  {
+    "id": 521,
+    "movie-title": "Fear and Loathing in Las Vegas",
+    "movie-genre": "Adventure|Comedy|Drama"
+  },
+  {
+    "id": 522,
+    "movie-title": "Carnosaur 3: Primal Species",
+    "movie-genre": "Horror|Sci-Fi"
+  },
+  {
+    "id": 523,
+    "movie-title": "Silent Light (Stellet licht)",
+    "movie-genre": "Drama"
+  },
+  {
+    "id": 524,
+    "movie-title": "Swan and the Wanderer, The (Kulkuri ja joutsen)",
+    "movie-genre": "Drama"
+  },
+  {
+    "id": 525,
+    "movie-title": "Zatoichi's Flashing Sword (Zatôichi abare tako) (Zatôichi 7)",
+    "movie-genre": "Action|Drama"
+  },
+  { "id": 526, "movie-title": "Whores' Glory", "movie-genre": "Documentary" },
+  {
+    "id": 527,
+    "movie-title": "We Are from the Future (My iz budushchego)",
+    "movie-genre": "Action|Drama|Fantasy"
+  },
+  {
+    "id": 528,
+    "movie-title": "Yongary: Monster from the Deep",
+    "movie-genre": "Children|Horror|Sci-Fi"
+  },
+  {
+    "id": 529,
+    "movie-title": "My Amityville Horror",
+    "movie-genre": "Documentary"
+  },
+  { "id": 530, "movie-title": "Romance", "movie-genre": "Drama|Romance" },
+  { "id": 531, "movie-title": "Profit, The", "movie-genre": "Drama" },
+  { "id": 532, "movie-title": "Outside Providence", "movie-genre": "Comedy" },
+  {
+    "id": 533,
+    "movie-title": "North Dallas Forty",
+    "movie-genre": "Comedy|Drama"
+  },
+  {
+    "id": 534,
+    "movie-title": "Three Burials of Melquiades Estrada, The",
+    "movie-genre": "Adventure|Crime|Drama"
+  },
+  {
+    "id": 535,
+    "movie-title": "War of the Shaolin Temple (Shao Lin shi san gun seng)",
+    "movie-genre": "Action|Adventure|War"
+  },
+  {
+    "id": 536,
+    "movie-title": "I Know What I Saw",
+    "movie-genre": "Documentary"
+  },
+  { "id": 537, "movie-title": "Rendez-vous", "movie-genre": "Drama" },
+  {
+    "id": 538,
+    "movie-title": "Dante's Inferno Animated",
+    "movie-genre": "Action|Animation|Fantasy"
+  },
+  {
+    "id": 539,
+    "movie-title": "Grosse Pointe Blank",
+    "movie-genre": "Comedy|Crime|Romance"
+  },
+  {
+    "id": 540,
+    "movie-title": "Night of the Hunted, The (Nuit des traquées, La)",
+    "movie-genre": "Horror|Sci-Fi"
+  },
+  {
+    "id": 541,
+    "movie-title": "Moscow on the Hudson",
+    "movie-genre": "Comedy|Drama"
+  },
+  {
+    "id": 542,
+    "movie-title": "Flamenco (de Carlos Saura)",
+    "movie-genre": "Musical"
+  },
+  { "id": 543, "movie-title": "Country Girl, The", "movie-genre": "Drama" },
+  { "id": 544, "movie-title": "Mississippi Grind", "movie-genre": "Drama" },
+  {
+    "id": 545,
+    "movie-title": "Resurrect Dead: The Mystery of the Toynbee Tiles",
+    "movie-genre": "Documentary|Mystery"
+  },
+  { "id": 546, "movie-title": "Junior", "movie-genre": "Comedy|Sci-Fi" },
+  {
+    "id": 547,
+    "movie-title": "Caesar Must Die (Cesare deve morire)",
+    "movie-genre": "Drama"
+  },
+  {
+    "id": 548,
+    "movie-title": "Eye for an Eye, An (Oeil pour oeil) (Eyes of the Sahara)",
+    "movie-genre": "Drama"
+  },
+  { "id": 549, "movie-title": "Arrow, The", "movie-genre": "Drama" },
+  { "id": 550, "movie-title": "Fans", "movie-genre": "Comedy" },
+  {
+    "id": 551,
+    "movie-title": "One Million B.C.",
+    "movie-genre": "Adventure|Fantasy|Romance|Sci-Fi"
+  },
+  { "id": 552, "movie-title": "Boys in the Band, The", "movie-genre": "Drama" },
+  { "id": 553, "movie-title": "Just Looking", "movie-genre": "Comedy" },
+  {
+    "id": 554,
+    "movie-title": "Sorry, Haters",
+    "movie-genre": "Drama|Thriller"
+  },
+  { "id": 555, "movie-title": "Beyond Bedlam", "movie-genre": "Drama|Horror" },
+  { "id": 556, "movie-title": "House, The (A Casa)", "movie-genre": "Drama" },
+  { "id": 557, "movie-title": "Head On", "movie-genre": "Drama" },
+  {
+    "id": 558,
+    "movie-title": "Eddie Murphy Raw",
+    "movie-genre": "Comedy|Documentary"
+  },
+  { "id": 559, "movie-title": "Meatballs 4", "movie-genre": "Comedy" },
+  { "id": 560, "movie-title": "Aria", "movie-genre": "Comedy|Drama" },
+  { "id": 561, "movie-title": "Dark House", "movie-genre": "Horror|Thriller" },
+  {
+    "id": 562,
+    "movie-title": "Witness for the Prosecution",
+    "movie-genre": "Drama|Mystery|Thriller"
+  },
+  {
+    "id": 563,
+    "movie-title": "Million Dollar Hotel, The",
+    "movie-genre": "Drama|Mystery|Romance"
+  },
+  {
+    "id": 564,
+    "movie-title": "Fear City",
+    "movie-genre": "Crime|Drama|Mystery|Thriller"
+  },
+  { "id": 565, "movie-title": "Back Street", "movie-genre": "Drama" },
+  {
+    "id": 566,
+    "movie-title": "S.O.S. Coast Guard",
+    "movie-genre": "Action|Adventure|Sci-Fi|Thriller"
+  },
+  {
+    "id": 567,
+    "movie-title": "Fallen Angel",
+    "movie-genre": "Crime|Film-Noir|Mystery|Romance"
+  },
+  {
+    "id": 568,
+    "movie-title": "Safe Conduct (Laissez-Passer)",
+    "movie-genre": "Drama|War"
+  },
+  { "id": 569, "movie-title": "Lola Montès", "movie-genre": "Drama" },
+  {
+    "id": 570,
+    "movie-title": "Lady in White (a.k.a. The Mystery of the Lady in White)",
+    "movie-genre": "Horror|Mystery|Thriller"
+  },
+  {
+    "id": 571,
+    "movie-title": "Dragon Day",
+    "movie-genre": "Drama|Sci-Fi|Thriller"
+  },
+  { "id": 572, "movie-title": "Street Angel", "movie-genre": "Drama" },
+  {
+    "id": 573,
+    "movie-title": "3 Blind Mice",
+    "movie-genre": "Crime|Mystery|Romance|Thriller"
+  },
+  {
+    "id": 574,
+    "movie-title": "Problem Child",
+    "movie-genre": "Children|Comedy"
+  },
+  { "id": 575, "movie-title": "Sasori", "movie-genre": "Action" },
+  {
+    "id": 576,
+    "movie-title": "Appointment in Tokyo",
+    "movie-genre": "Documentary|War"
+  },
+  {
+    "id": 577,
+    "movie-title": "Film About a Woman Who...",
+    "movie-genre": "Drama"
+  },
+  { "id": 578, "movie-title": "Billy Elliot", "movie-genre": "Drama" },
+  {
+    "id": 579,
+    "movie-title": "Planet of Dinosaurs",
+    "movie-genre": "Drama|Sci-Fi"
+  },
+  {
+    "id": 580,
+    "movie-title": "Sex and the Single Girl",
+    "movie-genre": "Comedy|Romance"
+  },
+  {
+    "id": 581,
+    "movie-title": "United States of Secrets (Part One): The Program",
+    "movie-genre": "Documentary"
+  },
+  {
+    "id": 582,
+    "movie-title": "Losers' Club (Kaybedenler kulübü)",
+    "movie-genre": "Comedy|Drama"
+  },
+  {
+    "id": 583,
+    "movie-title": "Princess and the Frog, The",
+    "movie-genre": "Animation|Children|Fantasy|Musical|Romance"
+  },
+  {
+    "id": 584,
+    "movie-title": "Little Drummer Boy, The",
+    "movie-genre": "Animation|Children|Musical"
+  },
+  {
+    "id": 585,
+    "movie-title": "Aaja Nachle",
+    "movie-genre": "Comedy|Musical|Romance"
+  },
+  { "id": 586, "movie-title": "Rude Boy", "movie-genre": "Documentary|Drama" },
+  { "id": 587, "movie-title": "Lovely Molly", "movie-genre": "Horror" },
+  {
+    "id": 588,
+    "movie-title": "Statues Also Die (Statues meurent aussi, Les)",
+    "movie-genre": "Documentary"
+  },
+  {
+    "id": 589,
+    "movie-title": "Churchill: The Hollywood Years",
+    "movie-genre": "Comedy|War"
+  },
+  { "id": 590, "movie-title": "Husk", "movie-genre": "Horror|Thriller" },
+  {
+    "id": 591,
+    "movie-title": "Stolen Collection, (Skradziona kolekcja)",
+    "movie-genre": "Comedy"
+  },
+  {
+    "id": 592,
+    "movie-title": "Halloween 5: The Revenge of Michael Myers",
+    "movie-genre": "Horror"
+  },
+  { "id": 593, "movie-title": "The Green", "movie-genre": "Drama" },
+  {
+    "id": 594,
+    "movie-title": "Chill Out! (Descongélate!)",
+    "movie-genre": "Comedy|Drama"
+  },
+  {
+    "id": 595,
+    "movie-title": "Jack the Giant Killer",
+    "movie-genre": "Action|Fantasy"
+  },
+  {
+    "id": 596,
+    "movie-title": "Major Dundee",
+    "movie-genre": "Adventure|War|Western"
+  },
+  {
+    "id": 597,
+    "movie-title": "Misadventures of Margaret, The",
+    "movie-genre": "Comedy|Romance"
+  },
+  {
+    "id": 598,
+    "movie-title": "Colour Me Kubrick: A True...ish Story",
+    "movie-genre": "Comedy|Drama"
+  },
+  {
+    "id": 599,
+    "movie-title": "Adventures of Tarzan",
+    "movie-genre": "Action|Adventure"
+  },
+  {
+    "id": 600,
+    "movie-title": "Contracted",
+    "movie-genre": "Drama|Horror|Thriller"
+  },
+  {
+    "id": 601,
+    "movie-title": "Tamara",
+    "movie-genre": "Fantasy|Horror|Thriller"
+  },
+  { "id": 602, "movie-title": "Gangsters", "movie-genre": "Action|Crime" },
+  {
+    "id": 603,
+    "movie-title": "Nothing to Lose",
+    "movie-genre": "Action|Crime|Drama"
+  },
+  { "id": 604, "movie-title": "My Prairie Home", "movie-genre": "Documentary" },
+  { "id": 605, "movie-title": "Consenting Adults", "movie-genre": "Thriller" },
+  {
+    "id": 606,
+    "movie-title": "Trust the Man",
+    "movie-genre": "Comedy|Drama|Romance"
+  },
+  {
+    "id": 607,
+    "movie-title": "21 Jump Street",
+    "movie-genre": "Action|Comedy|Crime"
+  },
+  {
+    "id": 608,
+    "movie-title": "Last Train Home",
+    "movie-genre": "Documentary|Drama"
+  },
+  {
+    "id": 609,
+    "movie-title": "Set-Up, The",
+    "movie-genre": "Drama|Film-Noir|Romance"
+  },
+  { "id": 610, "movie-title": "I Smile Back", "movie-genre": "Drama" },
+  {
+    "id": 611,
+    "movie-title": "Geri's Game",
+    "movie-genre": "Animation|Children"
+  },
+  { "id": 612, "movie-title": "Castle Freak", "movie-genre": "Horror" },
+  { "id": 613, "movie-title": "Freedom Song", "movie-genre": "Drama" },
+  {
+    "id": 614,
+    "movie-title": "Samurai Rebellion (Jôi-uchi: Hairyô tsuma shimatsu)",
+    "movie-genre": "Action|Drama"
+  },
+  {
+    "id": 615,
+    "movie-title": "Daar",
+    "movie-genre": "Drama|Horror|Mystery|Romance|Thriller"
+  },
+  {
+    "id": 616,
+    "movie-title": "Classe américaine, La (a.k.a. Le grand détournement)",
+    "movie-genre": "Comedy"
+  },
+  { "id": 617, "movie-title": "Mildred Pierce", "movie-genre": "Drama" },
+  { "id": 618, "movie-title": "Sweet Nothing", "movie-genre": "Drama" },
+  {
+    "id": 619,
+    "movie-title": "Operation Dumbo Drop",
+    "movie-genre": "Action|Adventure|Comedy|War"
+  },
+  {
+    "id": 620,
+    "movie-title": "Paris, I Love You (Paris, je t'aime)",
+    "movie-genre": "Romance"
+  },
+  {
+    "id": 621,
+    "movie-title": "Summer Magic",
+    "movie-genre": "Children|Comedy|Musical"
+  },
+  {
+    "id": 622,
+    "movie-title": "Mary Shelley's Frankenstein (Frankenstein)",
+    "movie-genre": "Drama|Horror|Sci-Fi"
+  },
+  { "id": 623, "movie-title": "Stigmata", "movie-genre": "Drama|Thriller" },
+  {
+    "id": 624,
+    "movie-title": "Pink Saris",
+    "movie-genre": "Documentary|Drama"
+  },
+  { "id": 625, "movie-title": "Waiting...", "movie-genre": "Comedy" },
+  { "id": 626, "movie-title": "First Descent", "movie-genre": "Documentary" },
+  { "id": 627, "movie-title": "Apt Pupil", "movie-genre": "Drama|Thriller" },
+  {
+    "id": 628,
+    "movie-title": "Rosemary's Baby",
+    "movie-genre": "Drama|Horror|Thriller"
+  },
+  {
+    "id": 629,
+    "movie-title": "Revolution Will Not Be Televised, The (a.k.a. Chavez: Inside the Coup)",
+    "movie-genre": "Documentary"
+  },
+  {
+    "id": 630,
+    "movie-title": "Azur & Asmar (Azur et Asmar)",
+    "movie-genre": "Adventure|Animation|Children"
+  },
+  {
+    "id": 631,
+    "movie-title": "Christmas Party, The (Joulubileet)",
+    "movie-genre": "Comedy"
+  },
+  {
+    "id": 632,
+    "movie-title": "Guns of Fort Petticoat, The",
+    "movie-genre": "War|Western"
+  },
+  { "id": 633, "movie-title": "Chillerama", "movie-genre": "Comedy|Horror" },
+  {
+    "id": 634,
+    "movie-title": "Rubber Johnny",
+    "movie-genre": "Animation|Horror"
+  },
+  { "id": 635, "movie-title": "Escape (Flukt)", "movie-genre": "Action|Drama" },
+  {
+    "id": 636,
+    "movie-title": "It Came from Hollywood",
+    "movie-genre": "Comedy|Documentary"
+  },
+  {
+    "id": 637,
+    "movie-title": "Garden of the Finzi-Continis, The (Giardino dei Finzi-Contini, Il)",
+    "movie-genre": "Drama"
+  },
+  {
+    "id": 638,
+    "movie-title": "Cruel Intentions 3",
+    "movie-genre": "Drama|Thriller"
+  },
+  { "id": 639, "movie-title": "Slasher", "movie-genre": "Documentary" },
+  { "id": 640, "movie-title": "Julien Donkey-Boy", "movie-genre": "Drama" },
+  {
+    "id": 641,
+    "movie-title": "10,000 BC",
+    "movie-genre": "Adventure|Romance|Thriller"
+  },
+  { "id": 642, "movie-title": "Go Now", "movie-genre": "Drama" },
+  {
+    "id": 643,
+    "movie-title": "Dragon Ball: Sleeping Princess in Devil's Castle (Doragon bôru: Majinjô no nemuri hime)",
+    "movie-genre": "Action|Adventure|Animation|Children"
+  },
+  {
+    "id": 644,
+    "movie-title": "Mercredi, folle journée!",
+    "movie-genre": "Comedy|Drama"
+  },
+  {
+    "id": 645,
+    "movie-title": "The Seven-Ups",
+    "movie-genre": "Action|Crime|Drama|Thriller"
+  },
+  {
+    "id": 646,
+    "movie-title": "He Died With a Felafel in His Hand",
+    "movie-genre": "Comedy"
+  },
+  {
+    "id": 647,
+    "movie-title": "Beautician and the Beast, The",
+    "movie-genre": "Comedy|Romance"
+  },
+  {
+    "id": 648,
+    "movie-title": "Deep Crimson (Profundo carmesí)",
+    "movie-genre": "Crime|Drama"
+  },
+  { "id": 649, "movie-title": "FM", "movie-genre": "Drama" },
+  {
+    "id": 650,
+    "movie-title": "Hot Tub Time Machine 2",
+    "movie-genre": "Comedy|Sci-Fi"
+  },
+  { "id": 651, "movie-title": "Making the Grade", "movie-genre": "Comedy" },
+  {
+    "id": 652,
+    "movie-title": "Kung Fu Panda 2",
+    "movie-genre": "Action|Adventure|Animation|Children|Comedy|IMAX"
+  },
+  {
+    "id": 653,
+    "movie-title": "Super 8",
+    "movie-genre": "Mystery|Sci-Fi|Thriller|IMAX"
+  },
+  { "id": 654, "movie-title": "Sour Grapes", "movie-genre": "Comedy" },
+  {
+    "id": 655,
+    "movie-title": "How to Meet Girls from a Distance",
+    "movie-genre": "Comedy"
+  },
+  { "id": 656, "movie-title": "The Hire: Chosen", "movie-genre": "Action" },
+  {
+    "id": 657,
+    "movie-title": "Red Dwarf, The (Nain rouge, Le)",
+    "movie-genre": "Comedy|Drama"
+  },
+  {
+    "id": 658,
+    "movie-title": "Casper's Haunted Christmas",
+    "movie-genre": "Animation|Children"
+  },
+  {
+    "id": 659,
+    "movie-title": "Sky West and Crooked (Gypsy Girl)",
+    "movie-genre": "Drama|Romance"
+  },
+  {
+    "id": 660,
+    "movie-title": "Morgan Pålsson - världsreporter",
+    "movie-genre": "Action|Comedy"
+  },
+  { "id": 661, "movie-title": "HealtH", "movie-genre": "Comedy" },
+  {
+    "id": 662,
+    "movie-title": "Olympus Has Fallen",
+    "movie-genre": "Action|Thriller"
+  },
+  {
+    "id": 663,
+    "movie-title": "Izo",
+    "movie-genre": "Action|Drama|Fantasy|Horror|Thriller|War"
+  },
+  {
+    "id": 664,
+    "movie-title": "Cold Trail (Köld slóð)",
+    "movie-genre": "Drama|Mystery|Thriller"
+  },
+  {
+    "id": 665,
+    "movie-title": "The Strength of Water",
+    "movie-genre": "(no genres listed)"
+  },
+  {
+    "id": 666,
+    "movie-title": "Two Sisters from Boston",
+    "movie-genre": "Comedy|Musical"
+  },
+  { "id": 667, "movie-title": "Felony", "movie-genre": "Thriller" },
+  { "id": 668, "movie-title": "Yakuza, The", "movie-genre": "Drama" },
+  {
+    "id": 669,
+    "movie-title": "Bridge at Remagen, The",
+    "movie-genre": "Action|War"
+  },
+  {
+    "id": 670,
+    "movie-title": "Bambi",
+    "movie-genre": "Animation|Children|Drama"
+  },
+  { "id": 671, "movie-title": "Mortician, The", "movie-genre": "Thriller" },
+  {
+    "id": 672,
+    "movie-title": "Computer Wore Tennis Shoes, The",
+    "movie-genre": "Children|Comedy"
+  },
+  {
+    "id": 673,
+    "movie-title": "Restless Blood (Levoton veri)",
+    "movie-genre": "Drama|Romance|Thriller"
+  },
+  { "id": 674, "movie-title": "Adam Resurrected", "movie-genre": "Drama|War" },
+  { "id": 675, "movie-title": "Valley Girl", "movie-genre": "Comedy|Romance" },
+  {
+    "id": 676,
+    "movie-title": "Black Coal, Thin Ice (Bai ri yan huo)",
+    "movie-genre": "Crime|Drama|Mystery|Thriller"
+  },
+  {
+    "id": 677,
+    "movie-title": "Alice in the Cities (Alice in den Stadten)",
+    "movie-genre": "Drama"
+  },
+  { "id": 678, "movie-title": "Big River Man", "movie-genre": "Documentary" },
+  {
+    "id": 679,
+    "movie-title": "Sundome",
+    "movie-genre": "Comedy|Drama|Romance"
+  },
+  { "id": 680, "movie-title": "Hot Dog... The Movie", "movie-genre": "Comedy" },
+  {
+    "id": 681,
+    "movie-title": "Return of Martin Guerre, The (Retour de Martin Guerre, Le)",
+    "movie-genre": "Drama"
+  },
+  { "id": 682, "movie-title": "Manhunt", "movie-genre": "Documentary|War" },
+  {
+    "id": 683,
+    "movie-title": "Pot v raj",
+    "movie-genre": "(no genres listed)"
+  },
+  {
+    "id": 684,
+    "movie-title": "Royal Flash",
+    "movie-genre": "Adventure|Comedy|Romance"
+  },
+  { "id": 685, "movie-title": "Moll Flanders", "movie-genre": "Drama" },
+  {
+    "id": 686,
+    "movie-title": "Into the Wild",
+    "movie-genre": "Action|Adventure|Drama"
+  },
+  { "id": 687, "movie-title": "Kennedys, The", "movie-genre": "Drama" },
+  {
+    "id": 688,
+    "movie-title": "Burrowers, The",
+    "movie-genre": "Horror|Thriller|Western"
+  },
+  { "id": 689, "movie-title": "Across the Hall", "movie-genre": "Thriller" },
+  { "id": 690, "movie-title": "People Like Us", "movie-genre": "Drama" },
+  { "id": 691, "movie-title": "Reeker", "movie-genre": "Horror|Mystery" },
+  { "id": 692, "movie-title": "Mata Hari", "movie-genre": "Drama|Romance" },
+  {
+    "id": 693,
+    "movie-title": "Call of Cthulhu, The",
+    "movie-genre": "Horror|Thriller"
+  },
+  {
+    "id": 694,
+    "movie-title": "Dancing in the Rain (Ples v dezju)",
+    "movie-genre": "Drama"
+  },
+  {
+    "id": 695,
+    "movie-title": "Joan of Arc",
+    "movie-genre": "Action|Drama|War"
+  },
+  {
+    "id": 696,
+    "movie-title": "Xanadu",
+    "movie-genre": "Fantasy|Musical|Romance"
+  },
+  {
+    "id": 697,
+    "movie-title": "Mr. Magorium's Wonder Emporium",
+    "movie-genre": "Children|Comedy|Fantasy"
+  },
+  {
+    "id": 698,
+    "movie-title": "Season for Miracles, A",
+    "movie-genre": "Children|Romance"
+  },
+  { "id": 699, "movie-title": "Mod Squad, The", "movie-genre": "Action|Crime" },
+  { "id": 700, "movie-title": "Murphy's War", "movie-genre": "War" },
+  {
+    "id": 701,
+    "movie-title": "Wild Hearts Can't Be Broken",
+    "movie-genre": "Drama|Romance"
+  },
+  {
+    "id": 702,
+    "movie-title": "Possible Loves (Amores Possíveis)",
+    "movie-genre": "Comedy|Romance"
+  },
+  {
+    "id": 703,
+    "movie-title": "Substitute, The",
+    "movie-genre": "Drama|Thriller"
+  },
+  {
+    "id": 704,
+    "movie-title": "Texas Across the River",
+    "movie-genre": "Comedy|Western"
+  },
+  {
+    "id": 705,
+    "movie-title": "Don",
+    "movie-genre": "Action|Comedy|Crime|Drama|Musical|Thriller"
+  },
+  {
+    "id": 706,
+    "movie-title": "Detonator, The",
+    "movie-genre": "Action|Thriller"
+  },
+  { "id": 707, "movie-title": "Peacock", "movie-genre": "Thriller" },
+  { "id": 708, "movie-title": "Three O'Clock High", "movie-genre": "Comedy" },
+  { "id": 709, "movie-title": "In & Out", "movie-genre": "Comedy" },
+  { "id": 710, "movie-title": "People Like Us", "movie-genre": "Drama" },
+  {
+    "id": 711,
+    "movie-title": "R.I.P.D.",
+    "movie-genre": "Action|Comedy|Fantasy"
+  },
+  { "id": 712, "movie-title": "Light of Day", "movie-genre": "Drama" },
+  {
+    "id": 713,
+    "movie-title": "Cranes Are Flying, The (Letyat zhuravli)",
+    "movie-genre": "Drama|Romance|War"
+  },
+  {
+    "id": 714,
+    "movie-title": "City Slickers",
+    "movie-genre": "Comedy|Western"
+  },
+  {
+    "id": 715,
+    "movie-title": "Star Trek: Nemesis",
+    "movie-genre": "Action|Drama|Sci-Fi|Thriller"
+  },
+  {
+    "id": 716,
+    "movie-title": "Birds of America",
+    "movie-genre": "Comedy|Drama"
+  },
+  { "id": 717, "movie-title": "Hamlet", "movie-genre": "Drama" },
+  {
+    "id": 718,
+    "movie-title": "Shadows and Fog",
+    "movie-genre": "Comedy|Drama|Mystery|Thriller"
+  },
+  {
+    "id": 719,
+    "movie-title": "Party, The (Boum, La)",
+    "movie-genre": "Comedy|Romance"
+  },
+  { "id": 720, "movie-title": "Dirty Story", "movie-genre": "Drama" },
+  {
+    "id": 721,
+    "movie-title": "By the Pricking of My Thumbs (Mon petit doigt m'a dit...)",
+    "movie-genre": "Comedy|Mystery"
+  },
+  {
+    "id": 722,
+    "movie-title": "Bill Burr: I'm Sorry You Feel That Way",
+    "movie-genre": "Comedy"
+  },
+  {
+    "id": 723,
+    "movie-title": "Apart from You (After Our Separation) (Kimi to wakarete)",
+    "movie-genre": "Drama"
+  },
+  { "id": 724, "movie-title": "Coffee Town", "movie-genre": "Comedy" },
+  {
+    "id": 725,
+    "movie-title": "Sun Also Rises, The (Tai yang zhao chang sheng qi)",
+    "movie-genre": "Drama"
+  },
+  { "id": 726, "movie-title": "Strawberry Wine", "movie-genre": "Drama" },
+  {
+    "id": 727,
+    "movie-title": "Lady Vengeance (Sympathy for Lady Vengeance) (Chinjeolhan geumjassi)",
+    "movie-genre": "Crime|Drama|Mystery|Thriller"
+  },
+  {
+    "id": 728,
+    "movie-title": "Deep End of the Ocean, The",
+    "movie-genre": "Drama"
+  },
+  {
+    "id": 729,
+    "movie-title": "Naked Killer (Chik loh go yeung)",
+    "movie-genre": "Action|Crime|Drama|Thriller"
+  },
+  { "id": 730, "movie-title": "Lovely Molly", "movie-genre": "Horror" },
+  { "id": 731, "movie-title": "Leo the Last", "movie-genre": "Comedy|Drama" },
+  { "id": 732, "movie-title": "One Tough Cop", "movie-genre": "Action|Crime" },
+  { "id": 733, "movie-title": "The Last Farm", "movie-genre": "Drama" },
+  {
+    "id": 734,
+    "movie-title": "Dark Angel (I Come in Peace)",
+    "movie-genre": "Action|Horror|Sci-Fi|Thriller"
+  },
+  { "id": 735, "movie-title": "Exists", "movie-genre": "Horror" },
+  {
+    "id": 736,
+    "movie-title": "Prodigal Son, The (Tuhlaajapoika)",
+    "movie-genre": "Thriller"
+  },
+  {
+    "id": 737,
+    "movie-title": "At the Circus",
+    "movie-genre": "Comedy|Musical"
+  },
+  {
+    "id": 738,
+    "movie-title": "We Are The Night (Wir sind die Nacht)",
+    "movie-genre": "Drama|Fantasy|Horror"
+  },
+  { "id": 739, "movie-title": "Guys, The", "movie-genre": "Drama" },
+  {
+    "id": 740,
+    "movie-title": "Boomerang",
+    "movie-genre": "Crime|Drama|Film-Noir"
+  },
+  {
+    "id": 741,
+    "movie-title": "Midsummer Night's Dream, A",
+    "movie-genre": "Comedy|Fantasy|Romance"
+  },
+  {
+    "id": 742,
+    "movie-title": "Sumo Do, Sumo Don't (Shiko funjatta)",
+    "movie-genre": "Comedy"
+  },
+  { "id": 743, "movie-title": "Long Weekend, The", "movie-genre": "Comedy" },
+  { "id": 744, "movie-title": "The Dancer", "movie-genre": "Drama|Romance" },
+  {
+    "id": 745,
+    "movie-title": "Dances With the Dragons ( Yu long gong wu)",
+    "movie-genre": "Comedy|Drama|Romance"
+  },
+  {
+    "id": 746,
+    "movie-title": "Bird with the Crystal Plumage, The (Uccello dalle piume di cristallo, L')",
+    "movie-genre": "Crime|Horror|Mystery|Thriller"
+  },
+  {
+    "id": 747,
+    "movie-title": "Wrong Move, The (Falsche Bewegung)",
+    "movie-genre": "Drama"
+  },
+  { "id": 748, "movie-title": "The Nativity", "movie-genre": "Children|Drama" },
+  { "id": 749, "movie-title": "Son-Daughter, The", "movie-genre": "Drama" },
+  { "id": 750, "movie-title": "Radio Rebel", "movie-genre": "Drama" },
+  {
+    "id": 751,
+    "movie-title": "Gigantic (A Tale of Two Johns)",
+    "movie-genre": "Documentary"
+  },
+  {
+    "id": 752,
+    "movie-title": "RKO Production 601: The Making of 'Kong, the Eighth Wonder of the World'",
+    "movie-genre": "Documentary"
+  },
+  {
+    "id": 753,
+    "movie-title": "Adventures of Tintin, The",
+    "movie-genre": "Action|Animation|Mystery|IMAX"
+  },
+  {
+    "id": 754,
+    "movie-title": "Silence, The (Das letzte Schweigen)",
+    "movie-genre": "Crime|Drama|Thriller"
+  },
+  {
+    "id": 755,
+    "movie-title": "Saving General Yang",
+    "movie-genre": "Adventure"
+  },
+  {
+    "id": 756,
+    "movie-title": "Discreet Charm of the Bourgeoisie, The (Charme discret de la bourgeoisie, Le)",
+    "movie-genre": "Comedy|Drama|Fantasy"
+  },
+  {
+    "id": 757,
+    "movie-title": "Frostbitten (Frostbiten)",
+    "movie-genre": "Comedy|Horror"
+  },
+  {
+    "id": 758,
+    "movie-title": "Lord of War",
+    "movie-genre": "Action|Crime|Drama|Thriller|War"
+  },
+  { "id": 759, "movie-title": "Kolmistaan", "movie-genre": "Drama|Romance" },
+  { "id": 760, "movie-title": "Strada, La", "movie-genre": "Drama" },
+  { "id": 761, "movie-title": "Little Accidents", "movie-genre": "Drama" },
+  { "id": 762, "movie-title": "Lion in Winter, The", "movie-genre": "Drama" },
+  {
+    "id": 763,
+    "movie-title": "Ladykillers, The",
+    "movie-genre": "Comedy|Crime"
+  },
+  {
+    "id": 764,
+    "movie-title": "Ring, The",
+    "movie-genre": "Horror|Mystery|Thriller"
+  },
+  {
+    "id": 765,
+    "movie-title": "Special Mission Lady Chaplin",
+    "movie-genre": "Action|Adventure"
+  },
+  {
+    "id": 766,
+    "movie-title": "Sleeping Dogs Lie (a.k.a. Stay)",
+    "movie-genre": "Comedy|Drama|Romance"
+  },
+  {
+    "id": 767,
+    "movie-title": "Girasoli, I (Sunflower)",
+    "movie-genre": "Drama"
+  },
+  {
+    "id": 768,
+    "movie-title": "Helter Skelter",
+    "movie-genre": "Crime|Drama|Thriller"
+  },
+  {
+    "id": 769,
+    "movie-title": "Expired",
+    "movie-genre": "Comedy|Drama|Romance"
+  },
+  {
+    "id": 770,
+    "movie-title": "Chorus Line, A",
+    "movie-genre": "Comedy|Drama|Musical"
+  },
+  {
+    "id": 771,
+    "movie-title": "Gasht-e ershad",
+    "movie-genre": "Comedy|Crime|Drama|Romance"
+  },
+  {
+    "id": 772,
+    "movie-title": "Fight, Zatoichi, Fight (Zatôichi kesshô-tabi) (Zatôichi 8)",
+    "movie-genre": "Action|Adventure|Comedy|Drama"
+  },
+  { "id": 773, "movie-title": "Reach the Rock", "movie-genre": "Comedy|Drama" },
+  { "id": 774, "movie-title": "Sugarbaby", "movie-genre": "Comedy" },
+  {
+    "id": 775,
+    "movie-title": "Werckmeister Harmonies (Werckmeister harmóniák)",
+    "movie-genre": "Drama"
+  },
+  {
+    "id": 776,
+    "movie-title": "Stuart Little 2",
+    "movie-genre": "Children|Comedy"
+  },
+  { "id": 777, "movie-title": "Havre, Le", "movie-genre": "Comedy|Drama" },
+  {
+    "id": 778,
+    "movie-title": "Cinema Komunisto",
+    "movie-genre": "Documentary"
+  },
+  {
+    "id": 779,
+    "movie-title": "The Fourth War",
+    "movie-genre": "Drama|Thriller"
+  },
+  {
+    "id": 780,
+    "movie-title": "Renaissance",
+    "movie-genre": "Action|Animation|Film-Noir|Sci-Fi|Thriller"
+  },
+  {
+    "id": 781,
+    "movie-title": "Orca: The Killer Whale",
+    "movie-genre": "Action|Drama|Horror|Thriller"
+  },
+  {
+    "id": 782,
+    "movie-title": "'71",
+    "movie-genre": "Action|Drama|Thriller|War"
+  },
+  {
+    "id": 783,
+    "movie-title": "Parking Lot Movie, The",
+    "movie-genre": "Documentary"
+  },
+  {
+    "id": 784,
+    "movie-title": "Some Folks Call It a Sling Blade",
+    "movie-genre": "Drama|Thriller"
+  },
+  {
+    "id": 785,
+    "movie-title": "Buddy Holly Story, The",
+    "movie-genre": "Drama"
+  },
+  {
+    "id": 786,
+    "movie-title": "Hitman, The",
+    "movie-genre": "Action|Crime|Thriller"
+  },
+  {
+    "id": 787,
+    "movie-title": "Screaming Man, A (Un homme qui crie)",
+    "movie-genre": "Drama"
+  },
+  {
+    "id": 788,
+    "movie-title": "Look Both Ways",
+    "movie-genre": "Drama|Romance"
+  },
+  {
+    "id": 789,
+    "movie-title": "Return of Doctor X, The",
+    "movie-genre": "Horror|Mystery|Sci-Fi|Thriller"
+  },
+  {
+    "id": 790,
+    "movie-title": "The Adventure of Faustus Bidgood",
+    "movie-genre": "Comedy"
+  },
+  { "id": 791, "movie-title": "After...", "movie-genre": "Horror|Thriller" },
+  {
+    "id": 792,
+    "movie-title": "Star Wars: Episode VI - Return of the Jedi",
+    "movie-genre": "Action|Adventure|Sci-Fi"
+  },
+  {
+    "id": 793,
+    "movie-title": "Friday the 13th",
+    "movie-genre": "Horror|Mystery|Thriller"
+  },
+  { "id": 794, "movie-title": "Rosa Luxemburg", "movie-genre": "Drama" },
+  {
+    "id": 795,
+    "movie-title": "And Starring Pancho Villa as Himself",
+    "movie-genre": "Action|Comedy|Drama|War"
+  },
+  { "id": 796, "movie-title": "Vacancy", "movie-genre": "Horror|Thriller" },
+  {
+    "id": 797,
+    "movie-title": "Robinson Crusoe (Daniel Defoe's Robinson Crusoe)",
+    "movie-genre": "Adventure|Drama"
+  },
+  {
+    "id": 798,
+    "movie-title": "Land Before Time III: The Time of the Great Giving",
+    "movie-genre": "Adventure|Animation|Children|Musical"
+  },
+  {
+    "id": 799,
+    "movie-title": "Rånarna",
+    "movie-genre": "Action|Crime|Thriller"
+  },
+  {
+    "id": 800,
+    "movie-title": "Predator",
+    "movie-genre": "Action|Sci-Fi|Thriller"
+  },
+  {
+    "id": 801,
+    "movie-title": "Hidden (a.k.a. Cache) (Caché)",
+    "movie-genre": "Drama|Mystery|Thriller"
+  },
+  {
+    "id": 802,
+    "movie-title": "When Father Was Away on Business (Otac na sluzbenom putu)",
+    "movie-genre": "Drama"
+  },
+  {
+    "id": 803,
+    "movie-title": "Chhoti Si Baat",
+    "movie-genre": "Comedy|Romance"
+  },
+  {
+    "id": 804,
+    "movie-title": "Direct from Brooklyn",
+    "movie-genre": "(no genres listed)"
+  },
+  {
+    "id": 805,
+    "movie-title": "Summer of Fear",
+    "movie-genre": "Drama|Horror|Mystery|Thriller"
+  },
+  {
+    "id": 806,
+    "movie-title": "Monument Ave.",
+    "movie-genre": "Action|Crime|Drama"
+  },
+  {
+    "id": 807,
+    "movie-title": "Past Midnight",
+    "movie-genre": "Horror|Thriller"
+  },
+  {
+    "id": 808,
+    "movie-title": "Chronicles of Narnia: Prince Caspian, The",
+    "movie-genre": "Adventure|Children|Fantasy"
+  },
+  {
+    "id": 809,
+    "movie-title": "Love and Bullets",
+    "movie-genre": "Crime|Drama"
+  },
+  {
+    "id": 810,
+    "movie-title": "Wild at Heart",
+    "movie-genre": "Crime|Drama|Mystery|Romance|Thriller"
+  },
+  {
+    "id": 811,
+    "movie-title": "Return of Django (Son of Django) (Figlio di Django, Il)",
+    "movie-genre": "Western"
+  },
+  { "id": 812, "movie-title": "StarStruck", "movie-genre": "Comedy|Musical" },
+  {
+    "id": 813,
+    "movie-title": "Children of the Corn: Revelation",
+    "movie-genre": "Horror|Thriller"
+  },
+  {
+    "id": 814,
+    "movie-title": "Puppet Master: Axis of Evil (Puppet Master 10)",
+    "movie-genre": "Horror"
+  },
+  {
+    "id": 815,
+    "movie-title": "Another 48 Hrs.",
+    "movie-genre": "Action|Comedy|Crime|Drama|Thriller"
+  },
+  { "id": 816, "movie-title": "The Sweet Ride", "movie-genre": "Drama" },
+  { "id": 817, "movie-title": "Varsity Blues", "movie-genre": "Comedy|Drama" },
+  {
+    "id": 818,
+    "movie-title": "Crips and Bloods: Made in America",
+    "movie-genre": "Documentary"
+  },
+  {
+    "id": 819,
+    "movie-title": "Outskirts (Okraina)",
+    "movie-genre": "Drama|War"
+  },
+  {
+    "id": 820,
+    "movie-title": "Sword of the Stranger (Sutorejia: Mukô hadan)",
+    "movie-genre": "Action|Adventure|Animation"
+  },
+  { "id": 821, "movie-title": "Lucky Numbers", "movie-genre": "Comedy|Drama" },
+  {
+    "id": 822,
+    "movie-title": "Son of Kong, The",
+    "movie-genre": "Adventure|Comedy|Fantasy"
+  },
+  {
+    "id": 823,
+    "movie-title": "Welcome to the Space Show (Uchû shô e yôkoso)",
+    "movie-genre": "Adventure|Animation|Sci-Fi"
+  },
+  {
+    "id": 824,
+    "movie-title": "Abbott and Costello Meet the Mummy",
+    "movie-genre": "Comedy|Horror"
+  },
+  {
+    "id": 825,
+    "movie-title": "Cabin in the Sky",
+    "movie-genre": "Fantasy|Musical"
+  },
+  {
+    "id": 826,
+    "movie-title": "Born to Fight",
+    "movie-genre": "Action|Children|Drama"
+  },
+  {
+    "id": 827,
+    "movie-title": "America: Imagine the World Without Her",
+    "movie-genre": "Documentary"
+  },
+  {
+    "id": 828,
+    "movie-title": "Serial Mom",
+    "movie-genre": "Comedy|Crime|Horror"
+  },
+  { "id": 829, "movie-title": "White Zombie", "movie-genre": "Horror" },
+  {
+    "id": 830,
+    "movie-title": "In the Realms of the Unreal",
+    "movie-genre": "Animation|Documentary"
+  },
+  { "id": 831, "movie-title": "Waterboys", "movie-genre": "Comedy" },
+  { "id": 832, "movie-title": "Grim Reaper", "movie-genre": "Horror" },
+  {
+    "id": 833,
+    "movie-title": "Night of the Following Day, The",
+    "movie-genre": "Crime|Drama"
+  },
+  { "id": 834, "movie-title": "Quo Vadis", "movie-genre": "Drama|Romance" },
+  {
+    "id": 835,
+    "movie-title": "Shades of Fern (Stín kapradiny)",
+    "movie-genre": "Drama"
+  },
+  {
+    "id": 836,
+    "movie-title": "Outbound (Periferic)",
+    "movie-genre": "Action|Drama"
+  },
+  {
+    "id": 837,
+    "movie-title": "Quatre garçons pleins d'avenir",
+    "movie-genre": "Comedy"
+  },
+  { "id": 838, "movie-title": "Festival in Cannes", "movie-genre": "Drama" },
+  { "id": 839, "movie-title": "Nacho Libre", "movie-genre": "Comedy" },
+  {
+    "id": 840,
+    "movie-title": "V for Vendetta",
+    "movie-genre": "Action|Sci-Fi|Thriller|IMAX"
+  },
+  {
+    "id": 841,
+    "movie-title": "Turtle's Tale: Sammy's Adventures, A",
+    "movie-genre": "Adventure|Animation"
+  },
+  {
+    "id": 842,
+    "movie-title": "Jack the Giant Slayer",
+    "movie-genre": "Adventure|Fantasy|IMAX"
+  },
+  {
+    "id": 843,
+    "movie-title": "The Missionaries",
+    "movie-genre": "Comedy|Romance"
+  },
+  { "id": 844, "movie-title": "The Facility", "movie-genre": "Horror|Sci-Fi" },
+  { "id": 845, "movie-title": "Nico Icon", "movie-genre": "Documentary" },
+  {
+    "id": 846,
+    "movie-title": "The Youngest Profession",
+    "movie-genre": "Comedy|Romance"
+  },
+  { "id": 847, "movie-title": "Grateful Dead", "movie-genre": "Documentary" },
+  {
+    "id": 848,
+    "movie-title": "Perfect Murder, The",
+    "movie-genre": "Action|Comedy|Crime|Thriller"
+  },
+  { "id": 849, "movie-title": "Girl in the Park, The", "movie-genre": "Drama" },
+  { "id": 850, "movie-title": "Mission to Moscow", "movie-genre": "Drama|War" },
+  {
+    "id": 851,
+    "movie-title": "My Mother's Courage (Mutters Courage)",
+    "movie-genre": "Comedy"
+  },
+  {
+    "id": 852,
+    "movie-title": "To Die Like a Man (Morrer Como Um Homem)",
+    "movie-genre": "Drama|Fantasy|Musical"
+  },
+  { "id": 853, "movie-title": "Deer Hunter, The", "movie-genre": "Drama|War" },
+  {
+    "id": 854,
+    "movie-title": "Gattaca",
+    "movie-genre": "Drama|Sci-Fi|Thriller"
+  },
+  { "id": 855, "movie-title": "Demonic", "movie-genre": "Horror|Thriller" },
+  { "id": 856, "movie-title": "Yojimbo", "movie-genre": "Action|Adventure" },
+  {
+    "id": 857,
+    "movie-title": "Armageddon",
+    "movie-genre": "Action|Romance|Sci-Fi|Thriller"
+  },
+  {
+    "id": 858,
+    "movie-title": "Marvin Gaye: What's Going On",
+    "movie-genre": "Documentary"
+  },
+  { "id": 859, "movie-title": "Still Bill", "movie-genre": "Documentary" },
+  { "id": 860, "movie-title": "Gun Shy", "movie-genre": "Comedy" },
+  {
+    "id": 861,
+    "movie-title": "Back in the Saddle (Back in the Saddle Again)",
+    "movie-genre": "Action|Drama|Western"
+  },
+  {
+    "id": 862,
+    "movie-title": "Keep Your Right Up",
+    "movie-genre": "Comedy|Drama"
+  },
+  {
+    "id": 863,
+    "movie-title": "Computer Wore Tennis Shoes, The",
+    "movie-genre": "Children|Comedy"
+  },
+  {
+    "id": 864,
+    "movie-title": "I Am a Sex Addict",
+    "movie-genre": "Comedy|Documentary|Romance"
+  },
+  {
+    "id": 865,
+    "movie-title": "Amazing Journey: The Story of The Who",
+    "movie-genre": "Documentary"
+  },
+  {
+    "id": 866,
+    "movie-title": "Bride & Prejudice",
+    "movie-genre": "Comedy|Musical|Romance"
+  },
+  {
+    "id": 867,
+    "movie-title": "Visitors, The",
+    "movie-genre": "Crime|Drama|Thriller"
+  },
+  {
+    "id": 868,
+    "movie-title": "Old Men in New Cars (Gamle mænd i nye biler)",
+    "movie-genre": "Action|Comedy"
+  },
+  {
+    "id": 869,
+    "movie-title": "Air I Breathe, The",
+    "movie-genre": "Crime|Drama|Romance|Thriller"
+  },
+  {
+    "id": 870,
+    "movie-title": "Page Turner, The (Tourneuse de pages, La)",
+    "movie-genre": "Drama|Musical|Thriller"
+  },
+  {
+    "id": 871,
+    "movie-title": "Fourth Angel, The",
+    "movie-genre": "Action|Drama|Thriller"
+  },
+  { "id": 872, "movie-title": "Carpetbaggers, The", "movie-genre": "Drama" },
+  {
+    "id": 873,
+    "movie-title": "Ninja Scroll (Jûbei ninpûchô)",
+    "movie-genre": "Action|Adventure|Animation|Fantasy"
+  },
+  { "id": 874, "movie-title": "All the King's Men", "movie-genre": "Drama" },
+  {
+    "id": 875,
+    "movie-title": "Jesse Stone: Death in Paradise",
+    "movie-genre": "Crime|Drama|Mystery"
+  },
+  {
+    "id": 876,
+    "movie-title": "Heaven's Prisoners",
+    "movie-genre": "Crime|Thriller"
+  },
+  {
+    "id": 877,
+    "movie-title": "Miss Congeniality 2: Armed and Fabulous",
+    "movie-genre": "Adventure|Comedy|Crime"
+  },
+  { "id": 878, "movie-title": "Divine Madness!", "movie-genre": "Comedy" },
+  {
+    "id": 879,
+    "movie-title": "Carol Channing: Larger Than Life",
+    "movie-genre": "Comedy|Documentary|Musical"
+  },
+  {
+    "id": 880,
+    "movie-title": "If I Were You (Se Eu Fosse Você)",
+    "movie-genre": "Comedy"
+  },
+  {
+    "id": 881,
+    "movie-title": "Teenage Paparazzo",
+    "movie-genre": "Documentary"
+  },
+  { "id": 882, "movie-title": "John Adams", "movie-genre": "Drama" },
+  {
+    "id": 883,
+    "movie-title": "Escape Fire: The Fight to Rescue American Healthcare",
+    "movie-genre": "Documentary"
+  },
+  {
+    "id": 884,
+    "movie-title": "Dating Games People Play",
+    "movie-genre": "Comedy"
+  },
+  {
+    "id": 885,
+    "movie-title": "Sam Peckinpah: Man of Iron",
+    "movie-genre": "Documentary"
+  },
+  {
+    "id": 886,
+    "movie-title": "Wanda Sykes: Sick and Tired",
+    "movie-genre": "Comedy|Documentary"
+  },
+  {
+    "id": 887,
+    "movie-title": "Pandora's Box (Büchse der Pandora, Die)",
+    "movie-genre": "Drama"
+  },
+  {
+    "id": 888,
+    "movie-title": "Other Son, The (Fils de l'autre, Le)",
+    "movie-genre": "Drama"
+  },
+  {
+    "id": 889,
+    "movie-title": "Return to Sender",
+    "movie-genre": "Drama|Thriller"
+  },
+  {
+    "id": 890,
+    "movie-title": "From Morn to Midnight (Von morgens bis Mitternacht)",
+    "movie-genre": "Crime|Drama"
+  },
+  { "id": 891, "movie-title": "Sokkotanssi", "movie-genre": "Comedy|Drama" },
+  { "id": 892, "movie-title": "Cheap Detective, The", "movie-genre": "Comedy" },
+  {
+    "id": 893,
+    "movie-title": "Pelle Svanslös i Amerikatt",
+    "movie-genre": "Animation|Children"
+  },
+  {
+    "id": 894,
+    "movie-title": "Great Train Robbery, The (a.k.a. First Great Train Robbery, The)",
+    "movie-genre": "Action|Adventure|Comedy|Crime|Drama"
+  },
+  {
+    "id": 895,
+    "movie-title": "Gamera vs. Barugon",
+    "movie-genre": "Action|Fantasy|Sci-Fi"
+  },
+  { "id": 896, "movie-title": "Welcome to Woop-Woop", "movie-genre": "Comedy" },
+  { "id": 897, "movie-title": "Iceman Cometh, The", "movie-genre": "Drama" },
+  {
+    "id": 898,
+    "movie-title": "Hadersfild (Huddersfield)",
+    "movie-genre": "Drama"
+  },
+  { "id": 899, "movie-title": "Embracing", "movie-genre": "Documentary" },
+  {
+    "id": 900,
+    "movie-title": "Dinosaurus!",
+    "movie-genre": "Adventure|Comedy"
+  },
+  { "id": 901, "movie-title": "Rain", "movie-genre": "Drama|Romance" },
+  {
+    "id": 902,
+    "movie-title": "Wake Up, Ron Burgundy",
+    "movie-genre": "Comedy"
+  },
+  {
+    "id": 903,
+    "movie-title": "Street Fighter, The (Gekitotsu! Satsujin ken)",
+    "movie-genre": "Action"
+  },
+  {
+    "id": 904,
+    "movie-title": "Aura, The (Aura, El)",
+    "movie-genre": "Crime|Drama|Thriller"
+  },
+  { "id": 905, "movie-title": "Syrian Bride, The", "movie-genre": "Drama" },
+  { "id": 906, "movie-title": "Funny Farm", "movie-genre": "Comedy" },
+  { "id": 907, "movie-title": "Off the Map", "movie-genre": "Comedy|Drama" },
+  {
+    "id": 908,
+    "movie-title": "Angels of the Universe (Englar alheimsins)",
+    "movie-genre": "Drama"
+  },
+  {
+    "id": 909,
+    "movie-title": "Adventures of Huckleberry Finn, The",
+    "movie-genre": "Adventure|Drama"
+  },
+  {
+    "id": 910,
+    "movie-title": "Private Lives of Elizabeth and Essex, The",
+    "movie-genre": "Drama|Romance"
+  },
+  { "id": 911, "movie-title": "Blown Away", "movie-genre": "Action|Thriller" },
+  { "id": 912, "movie-title": "In the Bedroom", "movie-genre": "Drama" },
+  {
+    "id": 913,
+    "movie-title": "Quigley Down Under",
+    "movie-genre": "Adventure|Drama|Western"
+  },
+  { "id": 914, "movie-title": "Avalon", "movie-genre": "Drama|Fantasy|Sci-Fi" },
+  {
+    "id": 915,
+    "movie-title": "Lonely Hearts",
+    "movie-genre": "Crime|Drama|Thriller"
+  },
+  {
+    "id": 916,
+    "movie-title": "White God (Fehér isten)",
+    "movie-genre": "Drama"
+  },
+  {
+    "id": 917,
+    "movie-title": "Get Well Soon",
+    "movie-genre": "Comedy|Drama|Romance"
+  },
+  {
+    "id": 918,
+    "movie-title": "Pekka ja Pätkä salapoliiseina",
+    "movie-genre": "Comedy"
+  },
+  { "id": 919, "movie-title": "Color Purple, The", "movie-genre": "Drama" },
+  {
+    "id": 920,
+    "movie-title": "T,O,U,C,H,I,N,G",
+    "movie-genre": "(no genres listed)"
+  },
+  {
+    "id": 921,
+    "movie-title": "Duel",
+    "movie-genre": "Action|Mystery|Thriller"
+  },
+  { "id": 922, "movie-title": "Sixtynine", "movie-genre": "Drama" },
+  {
+    "id": 923,
+    "movie-title": "Becky Sharp",
+    "movie-genre": "Drama|Romance|War"
+  },
+  { "id": 924, "movie-title": "Garden of Allah, The", "movie-genre": "Drama" },
+  { "id": 925, "movie-title": "Super, The", "movie-genre": "Comedy" },
+  { "id": 926, "movie-title": "Gabrielle", "movie-genre": "Drama|Romance" },
+  { "id": 927, "movie-title": "Audrey Rose", "movie-genre": "Horror" },
+  { "id": 928, "movie-title": "Hit Man", "movie-genre": "Crime|Drama" },
+  {
+    "id": 929,
+    "movie-title": "Holokaustin värit",
+    "movie-genre": "Documentary|War"
+  },
+  { "id": 930, "movie-title": "Phantasm", "movie-genre": "Horror|Sci-Fi" },
+  {
+    "id": 931,
+    "movie-title": "Paradise Lost: The Child Murders at Robin Hood Hills",
+    "movie-genre": "Documentary"
+  },
+  { "id": 932, "movie-title": "Moolaadé", "movie-genre": "Drama" },
+  { "id": 933, "movie-title": "Wag the Dog", "movie-genre": "Comedy" },
+  {
+    "id": 934,
+    "movie-title": "Vie en Rose, La (Môme, La)",
+    "movie-genre": "Drama|Musical"
+  },
+  {
+    "id": 935,
+    "movie-title": "Letter from an Unknown Woman",
+    "movie-genre": "Drama|Romance"
+  },
+  {
+    "id": 936,
+    "movie-title": "Nick Carter, Master Detective",
+    "movie-genre": "Crime|Drama|Mystery"
+  },
+  {
+    "id": 937,
+    "movie-title": "Garlic Is As Good As Ten Mothers",
+    "movie-genre": "(no genres listed)"
+  },
+  { "id": 938, "movie-title": "Absurdistan", "movie-genre": "Comedy|Romance" },
+  {
+    "id": 939,
+    "movie-title": "North West Frontier",
+    "movie-genre": "Adventure|Drama|War"
+  },
+  { "id": 940, "movie-title": "Bombardier", "movie-genre": "Drama|War" },
+  { "id": 941, "movie-title": "Cat and Dog", "movie-genre": "Comedy|Crime" },
+  { "id": 942, "movie-title": "Superstar", "movie-genre": "Comedy" },
+  {
+    "id": 943,
+    "movie-title": "Winter of Frozen Dreams",
+    "movie-genre": "Crime|Drama"
+  },
+  {
+    "id": 944,
+    "movie-title": "National Lampoon's Lady Killers (National Lampoon's Gold Diggers)",
+    "movie-genre": "Comedy"
+  },
+  {
+    "id": 945,
+    "movie-title": "Citizen Dog (Mah nakorn)",
+    "movie-genre": "Comedy|Fantasy|Romance"
+  },
+  {
+    "id": 946,
+    "movie-title": "From One Second to the Next",
+    "movie-genre": "Documentary"
+  },
+  {
+    "id": 947,
+    "movie-title": "You Light Up My Life",
+    "movie-genre": "Drama|Romance"
+  },
+  { "id": 948, "movie-title": "Fever", "movie-genre": "Thriller" },
+  { "id": 949, "movie-title": "Who's Your Daddy?", "movie-genre": "Comedy" },
+  {
+    "id": 950,
+    "movie-title": "Outrageous Fortune",
+    "movie-genre": "Comedy|Mystery"
+  },
+  {
+    "id": 951,
+    "movie-title": "Santa Fe Trail",
+    "movie-genre": "Drama|Romance|Western"
+  },
+  {
+    "id": 952,
+    "movie-title": "Dementia (a.k.a. Daughter of Horror)",
+    "movie-genre": "Horror|Mystery"
+  },
+  {
+    "id": 953,
+    "movie-title": "The Suspended Step of the Stork",
+    "movie-genre": "Drama|Romance"
+  },
+  {
+    "id": 954,
+    "movie-title": "Holy Mountain, The (Montaña sagrada, La)",
+    "movie-genre": "Drama"
+  },
+  { "id": 955, "movie-title": "Schindler's List", "movie-genre": "Drama|War" },
+  {
+    "id": 956,
+    "movie-title": "X-Men: Days of Future Past",
+    "movie-genre": "Action|Adventure|Sci-Fi"
+  },
+  {
+    "id": 957,
+    "movie-title": "Night and Day (Bam gua nat)",
+    "movie-genre": "Drama"
+  },
+  { "id": 958, "movie-title": "Little Man Tate", "movie-genre": "Drama" },
+  { "id": 959, "movie-title": "Zenith", "movie-genre": "Sci-Fi|Thriller" },
+  {
+    "id": 960,
+    "movie-title": "Love Me No More (Deux jours à tuer)",
+    "movie-genre": "Drama|Romance"
+  },
+  { "id": 961, "movie-title": "Incir Reçeli", "movie-genre": "Drama|Romance" },
+  {
+    "id": 962,
+    "movie-title": "Pornstar: The Legend of Ron Jeremy",
+    "movie-genre": "Documentary"
+  },
+  {
+    "id": 963,
+    "movie-title": "Postman Always Rings Twice, The",
+    "movie-genre": "Crime|Thriller"
+  },
+  { "id": 964, "movie-title": "Verbo", "movie-genre": "Adventure|Fantasy" },
+  { "id": 965, "movie-title": "Young Adult", "movie-genre": "Comedy|Drama" },
+  {
+    "id": 966,
+    "movie-title": "In Hell",
+    "movie-genre": "Action|Drama|Thriller"
+  },
+  {
+    "id": 967,
+    "movie-title": "Under the Cherry Moon",
+    "movie-genre": "Comedy|Drama|Musical|Romance"
+  },
+  {
+    "id": 968,
+    "movie-title": "102 Dalmatians",
+    "movie-genre": "Children|Comedy"
+  },
+  { "id": 969, "movie-title": "Sunshine Boys, The", "movie-genre": "Comedy" },
+  { "id": 970, "movie-title": "Morgen", "movie-genre": "Drama" },
+  {
+    "id": 971,
+    "movie-title": "Light Is Calling",
+    "movie-genre": "(no genres listed)"
+  },
+  { "id": 972, "movie-title": "All About Eve", "movie-genre": "Drama" },
+  {
+    "id": 973,
+    "movie-title": "Karate Kid, Part II, The",
+    "movie-genre": "Action|Adventure|Drama"
+  },
+  { "id": 974, "movie-title": "Condo Painting", "movie-genre": "Documentary" },
+  {
+    "id": 975,
+    "movie-title": "Girl Who Played with Fire, The (Flickan som lekte med elden)",
+    "movie-genre": "Action|Crime|Drama|Mystery|Thriller"
+  },
+  {
+    "id": 976,
+    "movie-title": "In the Fog (V tumane)",
+    "movie-genre": "Drama|War"
+  },
+  { "id": 977, "movie-title": "Year One", "movie-genre": "Adventure|Comedy" },
+  { "id": 978, "movie-title": "Iron Will", "movie-genre": "Adventure" },
+  {
+    "id": 979,
+    "movie-title": "Skirt Day (La journée de la jupe)",
+    "movie-genre": "Drama"
+  },
+  {
+    "id": 980,
+    "movie-title": "Johnny Apollo",
+    "movie-genre": "Crime|Drama|Film-Noir|Romance"
+  },
+  { "id": 981, "movie-title": "Babysitting", "movie-genre": "Comedy" },
+  { "id": 982, "movie-title": "Bomber", "movie-genre": "Action|Comedy" },
+  {
+    "id": 983,
+    "movie-title": "Conversations with My Gardener (Dialogue avec mon jardinier)",
+    "movie-genre": "Comedy|Drama"
+  },
+  {
+    "id": 984,
+    "movie-title": "Sonatine (Sonachine)",
+    "movie-genre": "Action|Comedy|Crime|Drama"
+  },
+  {
+    "id": 985,
+    "movie-title": "Russian Specialist, The (Mechanik, The)",
+    "movie-genre": "Action|Drama|Thriller"
+  },
+  {
+    "id": 986,
+    "movie-title": "Stunt Rock",
+    "movie-genre": "Action|Drama|Romance"
+  },
+  { "id": 987, "movie-title": "Heartbeat", "movie-genre": "Comedy" },
+  {
+    "id": 988,
+    "movie-title": "Vieraalla maalla",
+    "movie-genre": "Comedy|Romance"
+  },
+  {
+    "id": 989,
+    "movie-title": "Tremors",
+    "movie-genre": "Comedy|Horror|Sci-Fi"
+  },
+  { "id": 990, "movie-title": "Divide, The", "movie-genre": "Thriller" },
+  {
+    "id": 991,
+    "movie-title": "League of Their Own, A",
+    "movie-genre": "Comedy|Drama"
+  },
+  {
+    "id": 992,
+    "movie-title": "Beethoven's Treasure Tail",
+    "movie-genre": "Action|Adventure|Children"
+  },
+  {
+    "id": 993,
+    "movie-title": "The Time of Their Lives",
+    "movie-genre": "Comedy|Fantasy|Romance|Thriller"
+  },
+  {
+    "id": 994,
+    "movie-title": "Letter for the King, The (Brief voor de koning, De)",
+    "movie-genre": "Adventure"
+  },
+  { "id": 995, "movie-title": "Salsa", "movie-genre": "Musical|Romance" },
+  {
+    "id": 996,
+    "movie-title": "Stoning of Soraya M., The",
+    "movie-genre": "Crime|Drama"
+  },
+  {
+    "id": 997,
+    "movie-title": "Marathon Family, The (Maratonci Trce Pocasni Krug)",
+    "movie-genre": "Comedy"
+  },
+  {
+    "id": 998,
+    "movie-title": "Born Reckless",
+    "movie-genre": "Comedy|Crime|Drama"
+  },
+  { "id": 999, "movie-title": "Remarkable Power", "movie-genre": "Comedy" },
+  {
+    "id": 1000,
+    "movie-title": "Homicide",
+    "movie-genre": "Crime|Drama|Thriller"
+  }
+]

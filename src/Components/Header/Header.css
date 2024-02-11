@@ -1,0 +1,44 @@
+.header-container {
+  border-bottom: 2px solid red;
+  margin: auto;
+  color: white;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 0rem 1rem;
+}
+
+.header-login-signup {
+  display: flex;
+  align-items: center;
+}
+
+.header-signup {
+  color: red;
+  margin: 0px 10px;
+  padding-top: 2px;
+}
+
+.header-login {
+  margin: 0px 10px;
+}
+
+.menu-logo-container {
+  display: flex;
+  /* border: 2px solid red; */
+  padding: 1rem;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 175px;
+}
+
+.hamburger-menu {
+  height: 2rem;
+  width: 2rem;
+}
+
+.header-logo {
+  color: red;
+}

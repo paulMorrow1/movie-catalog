@@ -1,0 +1,36 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  flex-wrap: wrap;
+}
+
+.movie-thumbnail {
+  border: 2px solid red;
+  padding: 5px;
+  margin: 1rem 5px;
+  height: 320px;
+  width: 200px;
+}
+
+.movie-title {
+  font-size: 12px;
+  font-weight: 400;
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.card-icons-container {
+  margin-top: 5px;
+}
+
+.card-heart-icon {
+  width: 2rem;
+  margin-right: 2.5px;
+}
+
+.card-recentlywatched-icon {
+  width: 2rem;
+  margin-left: 2.5px;
+}
