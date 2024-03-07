@@ -1,19 +1,46 @@
 .card-container {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-evenly;
+  justify-content: space-between;
   /* border: 3px solid red; */
   color: white;
 }
 
 .card-container .amount-per-page {
-  flex: 1 0 100%;
+  /* flex: 1 1 100%; */
   display: flex;
   justify-content: flex-end;
+  align-items: center;
 }
 
-.card-container .amount-per-page select {
-  /* max-width: 220px; */
+.card-container .amount-per-page select[name="amount-per-page"] {
+  height: 30px;
+}
+
+.search-container {
+  position: relative;
+}
+
+.search-container input[type="text"][name="search"] {
+  font-size: 16px;
+  width: 200px;
+  height: 30px;
+  padding: 5px;
+}
+
+.search-results-container {
+  position: absolute;
+  top: 30px;
+  left: 0;
+  background: white;
+  width: 100%;
+  padding: 5px;
+  border: 2px solid black;
+  border-top: none;
+}
+
+.search-results-container button + button {
+  margin-top: 4px;
 }
 
 .pagination-container {
@@ -23,4 +50,21 @@
 
 .navigation-button {
   margin: 0px 5px;
+}
+
+.results-header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-top;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+}
+
+.results-header-container,
+.pagination {
+  width: 100%;
+  flex: 1 1 100%;
 }

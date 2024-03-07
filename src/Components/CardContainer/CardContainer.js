@@ -60,16 +60,18 @@ function CardContainer() {
 
   return (
     <section className="card-container">
-      <div>
-        <form onSubmit={onSearchHandler}>
-          <input
-            autoComplete="off"
-            type="text"
-            name="search"
-            placeholder="Search Movies"
-            onChange={handleSearchMoviesInput}
-            value={searchInput}
-          />
+      <div className="results-header-container">
+        <div className="search-container">
+          <form onSubmit={onSearchHandler}>
+            <input
+              autoComplete="off"
+              type="text"
+              name="search"
+              placeholder="Search Movies"
+              onChange={handleSearchMoviesInput}
+              value={searchInput}
+            />
+          </form>
           {searchResults.length ? (
             <div className="search-results-container">
               {searchResults.map((title) => {
@@ -83,23 +85,24 @@ function CardContainer() {
               })}
             </div>
           ) : null}
-        </form>
-      </div>
-      <FilterMovies />
-      <div className="amount-per-page">
-        <label id="amount-per-page">Select amount per page</label>{" "}
-        <select
-          name="amount-per-page"
-          value={perPage}
-          onChange={(e) => setPerPage(e.target.value)}
-        >
-          <option disabled>Select amount per page</option>
+        </div>
 
-          <option value={25}>25</option>
-          <option value={50}>50</option>
-          <option value={75}>75</option>
-          <option value={100}>100</option>
-        </select>
+        <FilterMovies />
+        <div className="amount-per-page">
+          <label id="amount-per-page">Select amount per page</label>{" "}
+          <select
+            name="amount-per-page"
+            value={perPage}
+            onChange={(e) => setPerPage(e.target.value)}
+          >
+            <option disabled>Select amount per page</option>
+
+            <option value={25}>25</option>
+            <option value={50}>50</option>
+            <option value={75}>75</option>
+            <option value={100}>100</option>
+          </select>
+        </div>
       </div>
       {movies.map((movie) => {
         return <Card key={movie.title} movie={movie} />;
@@ -108,17 +111,19 @@ function CardContainer() {
       {/* Pagination component wraps around our entire container, or
           strictly the pageNumber buttons?
         */}
-      <Pagination
-        count={numOfPages}
-        page={page}
-        onChange={goToPage}
-        showFirstButton
-        showLastButton
-        rounded="rounded"
-        sx={{
-          bgcolor: "white",
-        }}
-      />
+      <div className="pagination">
+        <Pagination
+          count={numOfPages}
+          page={page}
+          onChange={goToPage}
+          showFirstButton
+          showLastButton
+          rounded="rounded"
+          sx={{
+            bgcolor: "white",
+          }}
+        />
+      </div>
       {/* <div className="pagination-container">
         <button
           className="navigation-button"
